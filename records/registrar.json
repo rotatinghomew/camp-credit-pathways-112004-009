@@ -1,6 +1,38 @@
 {
   "transcripts": [
     {
+      "attempt": "f7",
+      "person": "p4",
+      "activity": "F2",
+      "score": {"interpret": 4},
+      "group": null,
+      "independent": true
+    },
+    {
+      "attempt": "f8",
+      "person": "p4",
+      "activity": "F3",
+      "score": {"react": 4, "discuss": 4},
+      "group": null,
+      "independent": true
+    },
+    {
+      "attempt": "f9",
+      "person": "p5",
+      "activity": "F2",
+      "score": {"interpret": 5},
+      "group": null,
+      "independent": true
+    },
+    {
+      "attempt": "f10",
+      "person": "p5",
+      "activity": "F3",
+      "score": {"react": 4},
+      "group": null,
+      "independent": true
+    },
+    {
       "attempt": "f1",
       "person": "p1",
       "activity": "F1",
@@ -67,6 +99,10 @@
     }
   ],
   "applications": [
+    {"id": "a6", "person": "p4", "school": "海校", "version": "h2", "course": "会话", "at": 23},
+    {"id": "a7", "person": "p4", "school": "海校", "version": "h2", "course": "阅读", "at": 23},
+    {"id": "a8", "person": "p4", "school": "海校", "version": "h2", "course": "研讨", "at": 24},
+    {"id": "a9", "person": "p5", "school": "海校", "version": "h2", "course": "会话", "at": 23},
     {
       "id": "a1",
       "person": "p1",
@@ -212,6 +248,19 @@
       "goal": [
         "discuss"
       ]
+    },
+    {
+      "id": "e7",
+      "application": "a9",
+      "school": "海校",
+      "course_version": "h2",
+      "eff_at": 25,
+      "recv_at": 25,
+      "state": "confirmed",
+      "credit": 2,
+      "attempt": ["f9", "f10"],
+      "goal": ["interpret", "react"],
+      "support_observation": ["M7-1", "M8-1"]
     }
   ]
 }
