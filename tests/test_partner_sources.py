@@ -5,7 +5,7 @@ import unittest
 
 RECORDS = Path(__file__).resolve().parents[1] / 'records'
 SCHEMAS = {'catalog.json': 'dict', 'cohorts.json': 'list', 'registrar.json': 'dict',
-           'followup_exchange.json': 'dict'}
+           'followup_exchange.json': 'dict', 'makeup_offers.json': 'dict'}
 
 
 class PartnerSourceTests(unittest.TestCase):
@@ -46,3 +46,15 @@ class PartnerSourceTests(unittest.TestCase):
             for key in event['support_observation']:
                 self.assertLessEqual(observations[key]['checkpoint']['available_after'],
                                      event['recv_at'] + exchange['archive_day_offset'])
+
+    def test_makeup_window_references(self):
+        case = json.loads((RECORDS / 'makeup_offers.json').read_text(encoding='utf-8'))
+        offer_by_id = {row['id']: row for row in case['windows']}
+        registrar = json.loads((RECORDS / 'registrar.json').read_text(encoding='utf-8'))
+        applicant_by_id = {row['id']: row['person'] for row in registrar['applications']}
+        for row in case['windows']:
+            self.assertLess(row['start'], row['end'])
+            self.assertLessEqual(row['end'], row['result_due'])
+        for event in case['events']:
+            self.assertIn(event['window'], offer_by_id)
+            self.assertEqual(applicant_by_id[event['application']], event['person'])

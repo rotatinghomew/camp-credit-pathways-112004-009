@@ -34,7 +34,12 @@
         "goal": "interpret",
         "minimum_separate_cohorts": 2,
         "population": "same_entry_level_and_orientation",
-        "checkpoint": "independent_followup"
+        "checkpoint": "independent_followup",
+        "policy": {
+          "compare": "same_end_goal_with_and_without_activity_within_cohort",
+          "benefit": "pass_rate_difference",
+          "minimum_difference": "0.00"
+        }
       }
     },
     {

@@ -1,0 +1,19 @@
+{
+  "windows": [
+    {"id": "hw1", "school": "海校", "course_version": "h2", "target": "interpret", "start": 32, "end": 33, "result_due": 36, "seats": 1, "mode": "supervised"},
+    {"id": "hw2", "school": "海校", "course_version": "h2", "target": "interpret", "start": 37, "end": 38, "result_due": 42, "seats": 2, "mode": "supervised"},
+    {"id": "jw1", "school": "江校", "course_version": "j1", "target": "interpret", "start": 32, "end": 34, "result_due": 35, "seats": 1, "mode": "remote"},
+    {"id": "hw3", "school": "海校", "course_version": "h2", "target": "discuss", "start": 36, "end": 37, "result_due": 39, "seats": 1, "mode": "supervised"}
+  ],
+  "recognition": [
+    {"school": "海校", "version": "h2", "target": "interpret", "provider": "海校", "mode": "supervised", "open_from": 25},
+    {"school": "海校", "version": "h2", "target": "interpret", "provider": "江校", "mode": "remote", "open_from": 34},
+    {"school": "海校", "version": "h2", "target": "discuss", "provider": "海校", "mode": "supervised", "open_from": 25}
+  ],
+  "events": [
+    {"id": "ma1", "window": "hw1", "application": "a9", "person": "p5", "received_at": 29, "kind": "reserved", "booking": "b501"},
+    {"id": "ma2", "window": "hw1", "application": "a9", "person": "p5", "received_at": 31, "kind": "confirmed", "booking": "b501"},
+    {"id": "ma3", "window": "hw1", "application": "a9", "person": "p5", "received_at": 33, "kind": "released", "booking": "b501"},
+    {"id": "ma4", "window": "hw2", "application": "a6", "person": "p4", "received_at": 34, "kind": "requested", "booking": "b502"}
+  ]
+}
