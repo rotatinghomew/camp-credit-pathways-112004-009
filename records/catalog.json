@@ -10,7 +10,7 @@
         "react"
       ],
       "credit": 2,
-      "distinct": true,
+      "distinct": false,
       "prereq": [],
       "start": 10,
       "end": 22
