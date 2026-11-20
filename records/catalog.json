@@ -13,7 +13,8 @@
       "distinct": false,
       "prereq": [],
       "start": 10,
-      "end": 22
+      "end": 22,
+      "support_basis": null
     },
     {
       "school": "海校",
@@ -28,7 +29,13 @@
       "distinct": true,
       "prereq": [],
       "start": 25,
-      "end": 38
+      "end": 38,
+      "support_basis": {
+        "goal": "interpret",
+        "minimum_separate_cohorts": 2,
+        "population": "same_entry_level_and_orientation",
+        "checkpoint": "independent_followup"
+      }
     },
     {
       "school": "江校",
@@ -42,7 +49,8 @@
       "distinct": true,
       "prereq": [],
       "start": 12,
-      "end": 25
+      "end": 25,
+      "support_basis": null
     },
     {
       "school": "海校",
@@ -58,7 +66,8 @@
         "会话"
       ],
       "start": 40,
-      "end": 55
+      "end": 55,
+      "support_basis": null
     },
     {
       "school": "海校",
@@ -72,7 +81,8 @@
       "distinct": true,
       "prereq": [],
       "start": 25,
-      "end": 39
+      "end": 39,
+      "support_basis": null
     }
   ],
   "activities": {
