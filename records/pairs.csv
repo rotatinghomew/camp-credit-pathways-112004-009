@@ -1,7 +1,0 @@
-pair,left,right,area,start,active_until
-t1,x1,x2,甲区,0,56
-t2,x1,x3,甲区,0,56
-t3,x2,x4,乙区,2,56
-t4,x5,x6,乙区,0,56
-t5,x7,x8,乙区,5,50
-t6,x6,x9,甲区,0,48

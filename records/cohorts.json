@@ -1,0 +1,7254 @@
+[
+  {
+    "cohort": "N0",
+    "opened": 100,
+    "person": "N0-0",
+    "school": "海校",
+    "level_at_entry": 1,
+    "orientation": "media",
+    "teaching_cluster": "G0-0",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 101,
+        "task_id": "T0-0-0",
+        "independent": false
+      },
+      {
+        "activity": "F4",
+        "at": 102,
+        "task_id": "T0-0-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 103,
+        "task_id": "T0-0-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 1,
+      "goal": "interpret",
+      "available_after": 131,
+      "mature": true,
+      "evidence": "T0-0-2",
+      "independent": false
+    }
+  },
+  {
+    "cohort": "N0",
+    "opened": 100,
+    "person": "N0-1",
+    "school": "海校",
+    "level_at_entry": 2,
+    "orientation": "general",
+    "teaching_cluster": "G0-0",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 101,
+        "task_id": "T0-1-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 102,
+        "task_id": "T0-1-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 103,
+        "task_id": "T0-1-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 2,
+      "goal": "react",
+      "available_after": 132,
+      "mature": true,
+      "evidence": "U0-1",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N0",
+    "opened": 100,
+    "person": "N0-2",
+    "school": "江校",
+    "level_at_entry": 3,
+    "orientation": "general",
+    "teaching_cluster": "G0-0",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 101,
+        "task_id": "T0-2-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 102,
+        "task_id": "T0-2-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 103,
+        "task_id": "T0-2-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 3,
+      "goal": "interpret",
+      "available_after": 133,
+      "mature": true,
+      "evidence": "U0-2",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N0",
+    "opened": 100,
+    "person": "N0-3",
+    "school": "江校",
+    "level_at_entry": 4,
+    "orientation": "general",
+    "teaching_cluster": "G0-0",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 101,
+        "task_id": "T0-3-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 102,
+        "task_id": "T0-3-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 103,
+        "task_id": "T0-3-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 4,
+      "goal": "react",
+      "available_after": 134,
+      "mature": true,
+      "evidence": "U0-3",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N0",
+    "opened": 100,
+    "person": "N0-4",
+    "school": "海校",
+    "level_at_entry": 1,
+    "orientation": "general",
+    "teaching_cluster": "G0-0",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 101,
+        "task_id": "T0-4-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 102,
+        "task_id": "T0-4-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 103,
+        "task_id": "T0-4-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 5,
+      "goal": "interpret",
+      "available_after": 135,
+      "mature": true,
+      "evidence": "U0-4",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N0",
+    "opened": 100,
+    "person": "N0-5",
+    "school": "海校",
+    "level_at_entry": 2,
+    "orientation": "general",
+    "teaching_cluster": "G0-1",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 101,
+        "task_id": "T0-5-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 102,
+        "task_id": "T0-5-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 103,
+        "task_id": "T0-5-2",
+        "independent": false
+      }
+    ],
+    "checkpoint": {
+      "score": 1,
+      "goal": "react",
+      "available_after": 136,
+      "mature": true,
+      "evidence": "U0-5",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N0",
+    "opened": 100,
+    "person": "N0-6",
+    "school": "江校",
+    "level_at_entry": 3,
+    "orientation": "media",
+    "teaching_cluster": "G0-1",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 101,
+        "task_id": "T0-6-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 102,
+        "task_id": "T0-6-1",
+        "independent": false
+      },
+      {
+        "activity": "F3",
+        "at": 103,
+        "task_id": "T0-6-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 2,
+      "goal": "interpret",
+      "available_after": 137,
+      "mature": true,
+      "evidence": "U0-6",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N0",
+    "opened": 100,
+    "person": "N0-7",
+    "school": "江校",
+    "level_at_entry": 4,
+    "orientation": "general",
+    "teaching_cluster": "G0-1",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 101,
+        "task_id": "T0-7-0",
+        "independent": false
+      },
+      {
+        "activity": "F2",
+        "at": 102,
+        "task_id": "T0-7-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 103,
+        "task_id": "T0-7-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 3,
+      "goal": "react",
+      "available_after": 138,
+      "mature": true,
+      "evidence": "U0-7",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N0",
+    "opened": 100,
+    "person": "N0-8",
+    "school": "海校",
+    "level_at_entry": 1,
+    "orientation": "general",
+    "teaching_cluster": "G0-1",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 101,
+        "task_id": "T0-8-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 102,
+        "task_id": "T0-8-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 103,
+        "task_id": "T0-8-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 4,
+      "goal": "interpret",
+      "available_after": 139,
+      "mature": true,
+      "evidence": "U0-8",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N0",
+    "opened": 100,
+    "person": "N0-9",
+    "school": "海校",
+    "level_at_entry": 2,
+    "orientation": "general",
+    "teaching_cluster": "G0-1",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 101,
+        "task_id": "T0-9-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 102,
+        "task_id": "T0-9-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 103,
+        "task_id": "T0-9-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 5,
+      "goal": "react",
+      "available_after": 140,
+      "mature": true,
+      "evidence": "T0-9-2",
+      "independent": false
+    }
+  },
+  {
+    "cohort": "N0",
+    "opened": 100,
+    "person": "N0-10",
+    "school": "江校",
+    "level_at_entry": 3,
+    "orientation": "general",
+    "teaching_cluster": "G0-2",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 101,
+        "task_id": "T0-10-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 102,
+        "task_id": "T0-10-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 103,
+        "task_id": "T0-10-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 1,
+      "goal": "interpret",
+      "available_after": 141,
+      "mature": true,
+      "evidence": "U0-10",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N0",
+    "opened": 100,
+    "person": "N0-11",
+    "school": "江校",
+    "level_at_entry": 4,
+    "orientation": "general",
+    "teaching_cluster": "G0-2",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 101,
+        "task_id": "T0-11-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 102,
+        "task_id": "T0-11-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 103,
+        "task_id": "T0-11-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 2,
+      "goal": "react",
+      "available_after": 131,
+      "mature": true,
+      "evidence": "U0-11",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N0",
+    "opened": 100,
+    "person": "N0-12",
+    "school": "海校",
+    "level_at_entry": 1,
+    "orientation": "media",
+    "teaching_cluster": "G0-2",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 101,
+        "task_id": "T0-12-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 102,
+        "task_id": "T0-12-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 103,
+        "task_id": "T0-12-2",
+        "independent": false
+      }
+    ],
+    "checkpoint": {
+      "score": 3,
+      "goal": "interpret",
+      "available_after": 132,
+      "mature": true,
+      "evidence": "U0-12",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N0",
+    "opened": 100,
+    "person": "N0-13",
+    "school": "海校",
+    "level_at_entry": 2,
+    "orientation": "general",
+    "teaching_cluster": "G0-2",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 101,
+        "task_id": "T0-13-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 102,
+        "task_id": "T0-13-1",
+        "independent": false
+      },
+      {
+        "activity": "F3",
+        "at": 103,
+        "task_id": "T0-13-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 4,
+      "goal": "react",
+      "available_after": 133,
+      "mature": true,
+      "evidence": "U0-13",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N0",
+    "opened": 100,
+    "person": "N0-14",
+    "school": "江校",
+    "level_at_entry": 3,
+    "orientation": "general",
+    "teaching_cluster": "G0-2",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 101,
+        "task_id": "T0-14-0",
+        "independent": false
+      },
+      {
+        "activity": "F4",
+        "at": 102,
+        "task_id": "T0-14-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 103,
+        "task_id": "T0-14-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 5,
+      "goal": "interpret",
+      "available_after": 134,
+      "mature": true,
+      "evidence": "U0-14",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N0",
+    "opened": 100,
+    "person": "N0-15",
+    "school": "江校",
+    "level_at_entry": 4,
+    "orientation": "general",
+    "teaching_cluster": "G0-3",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 101,
+        "task_id": "T0-15-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 102,
+        "task_id": "T0-15-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 103,
+        "task_id": "T0-15-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 1,
+      "goal": "react",
+      "available_after": 135,
+      "mature": true,
+      "evidence": "U0-15",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N0",
+    "opened": 100,
+    "person": "N0-16",
+    "school": "海校",
+    "level_at_entry": 1,
+    "orientation": "general",
+    "teaching_cluster": "G0-3",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 101,
+        "task_id": "T0-16-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 102,
+        "task_id": "T0-16-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 103,
+        "task_id": "T0-16-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 2,
+      "goal": "interpret",
+      "available_after": 136,
+      "mature": true,
+      "evidence": "U0-16",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N0",
+    "opened": 100,
+    "person": "N0-17",
+    "school": "海校",
+    "level_at_entry": 2,
+    "orientation": "general",
+    "teaching_cluster": "G0-3",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 101,
+        "task_id": "T0-17-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 102,
+        "task_id": "T0-17-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 103,
+        "task_id": "T0-17-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 3,
+      "goal": "react",
+      "available_after": 137,
+      "mature": true,
+      "evidence": "U0-17",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N0",
+    "opened": 100,
+    "person": "N0-18",
+    "school": "江校",
+    "level_at_entry": 3,
+    "orientation": "media",
+    "teaching_cluster": "G0-3",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 101,
+        "task_id": "T0-18-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 102,
+        "task_id": "T0-18-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 103,
+        "task_id": "T0-18-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 4,
+      "goal": "interpret",
+      "available_after": 138,
+      "mature": true,
+      "evidence": "T0-18-2",
+      "independent": false
+    }
+  },
+  {
+    "cohort": "N0",
+    "opened": 100,
+    "person": "N0-19",
+    "school": "江校",
+    "level_at_entry": 4,
+    "orientation": "general",
+    "teaching_cluster": "G0-3",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 101,
+        "task_id": "T0-19-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 102,
+        "task_id": "T0-19-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 103,
+        "task_id": "T0-19-2",
+        "independent": false
+      }
+    ],
+    "checkpoint": {
+      "score": 5,
+      "goal": "react",
+      "available_after": 139,
+      "mature": true,
+      "evidence": "U0-19",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N0",
+    "opened": 100,
+    "person": "N0-20",
+    "school": "海校",
+    "level_at_entry": 1,
+    "orientation": "general",
+    "teaching_cluster": "G0-4",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 101,
+        "task_id": "T0-20-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 102,
+        "task_id": "T0-20-1",
+        "independent": false
+      },
+      {
+        "activity": "F3",
+        "at": 103,
+        "task_id": "T0-20-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 1,
+      "goal": "interpret",
+      "available_after": 140,
+      "mature": true,
+      "evidence": "U0-20",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N0",
+    "opened": 100,
+    "person": "N0-21",
+    "school": "海校",
+    "level_at_entry": 2,
+    "orientation": "general",
+    "teaching_cluster": "G0-4",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 101,
+        "task_id": "T0-21-0",
+        "independent": false
+      },
+      {
+        "activity": "F2",
+        "at": 102,
+        "task_id": "T0-21-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 103,
+        "task_id": "T0-21-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 2,
+      "goal": "react",
+      "available_after": 141,
+      "mature": true,
+      "evidence": "U0-21",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N0",
+    "opened": 100,
+    "person": "N0-22",
+    "school": "江校",
+    "level_at_entry": 3,
+    "orientation": "general",
+    "teaching_cluster": "G0-4",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 101,
+        "task_id": "T0-22-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 102,
+        "task_id": "T0-22-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 103,
+        "task_id": "T0-22-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 3,
+      "goal": "interpret",
+      "available_after": 131,
+      "mature": true,
+      "evidence": "U0-22",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N0",
+    "opened": 100,
+    "person": "N0-23",
+    "school": "江校",
+    "level_at_entry": 4,
+    "orientation": "general",
+    "teaching_cluster": "G0-4",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 101,
+        "task_id": "T0-23-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 102,
+        "task_id": "T0-23-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 103,
+        "task_id": "T0-23-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 4,
+      "goal": "react",
+      "available_after": 132,
+      "mature": true,
+      "evidence": "U0-23",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N0",
+    "opened": 100,
+    "person": "N0-24",
+    "school": "海校",
+    "level_at_entry": 1,
+    "orientation": "media",
+    "teaching_cluster": "G0-4",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 101,
+        "task_id": "T0-24-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 102,
+        "task_id": "T0-24-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 103,
+        "task_id": "T0-24-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 5,
+      "goal": "interpret",
+      "available_after": 133,
+      "mature": true,
+      "evidence": "U0-24",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N0",
+    "opened": 100,
+    "person": "N0-25",
+    "school": "海校",
+    "level_at_entry": 2,
+    "orientation": "general",
+    "teaching_cluster": "G0-5",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 101,
+        "task_id": "T0-25-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 102,
+        "task_id": "T0-25-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 103,
+        "task_id": "T0-25-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 1,
+      "goal": "react",
+      "available_after": 134,
+      "mature": true,
+      "evidence": "U0-25",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N0",
+    "opened": 100,
+    "person": "N0-26",
+    "school": "江校",
+    "level_at_entry": 3,
+    "orientation": "general",
+    "teaching_cluster": "G0-5",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 101,
+        "task_id": "T0-26-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 102,
+        "task_id": "T0-26-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 103,
+        "task_id": "T0-26-2",
+        "independent": false
+      }
+    ],
+    "checkpoint": {
+      "score": 2,
+      "goal": "interpret",
+      "available_after": 135,
+      "mature": true,
+      "evidence": "U0-26",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N0",
+    "opened": 100,
+    "person": "N0-27",
+    "school": "江校",
+    "level_at_entry": 4,
+    "orientation": "general",
+    "teaching_cluster": "G0-5",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 101,
+        "task_id": "T0-27-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 102,
+        "task_id": "T0-27-1",
+        "independent": false
+      },
+      {
+        "activity": "F3",
+        "at": 103,
+        "task_id": "T0-27-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 3,
+      "goal": "react",
+      "available_after": 136,
+      "mature": true,
+      "evidence": "T0-27-2",
+      "independent": false
+    }
+  },
+  {
+    "cohort": "N1",
+    "opened": 160,
+    "person": "N1-0",
+    "school": "海校",
+    "level_at_entry": 1,
+    "orientation": "media",
+    "teaching_cluster": "G1-0",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 161,
+        "task_id": "T1-0-0",
+        "independent": false
+      },
+      {
+        "activity": "F2",
+        "at": 162,
+        "task_id": "T1-0-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 163,
+        "task_id": "T1-0-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 2,
+      "goal": "interpret",
+      "available_after": 191,
+      "mature": true,
+      "evidence": "T1-0-2",
+      "independent": false
+    }
+  },
+  {
+    "cohort": "N1",
+    "opened": 160,
+    "person": "N1-1",
+    "school": "海校",
+    "level_at_entry": 2,
+    "orientation": "general",
+    "teaching_cluster": "G1-0",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 161,
+        "task_id": "T1-1-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 162,
+        "task_id": "T1-1-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 163,
+        "task_id": "T1-1-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 3,
+      "goal": "react",
+      "available_after": 192,
+      "mature": true,
+      "evidence": "U1-1",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N1",
+    "opened": 160,
+    "person": "N1-2",
+    "school": "江校",
+    "level_at_entry": 3,
+    "orientation": "general",
+    "teaching_cluster": "G1-0",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 161,
+        "task_id": "T1-2-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 162,
+        "task_id": "T1-2-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 163,
+        "task_id": "T1-2-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 4,
+      "goal": "interpret",
+      "available_after": 193,
+      "mature": true,
+      "evidence": "U1-2",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N1",
+    "opened": 160,
+    "person": "N1-3",
+    "school": "江校",
+    "level_at_entry": 4,
+    "orientation": "general",
+    "teaching_cluster": "G1-0",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 161,
+        "task_id": "T1-3-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 162,
+        "task_id": "T1-3-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 163,
+        "task_id": "T1-3-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 5,
+      "goal": "react",
+      "available_after": 194,
+      "mature": true,
+      "evidence": "U1-3",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N1",
+    "opened": 160,
+    "person": "N1-4",
+    "school": "海校",
+    "level_at_entry": 1,
+    "orientation": "general",
+    "teaching_cluster": "G1-0",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 161,
+        "task_id": "T1-4-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 162,
+        "task_id": "T1-4-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 163,
+        "task_id": "T1-4-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 1,
+      "goal": "interpret",
+      "available_after": 195,
+      "mature": true,
+      "evidence": "U1-4",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N1",
+    "opened": 160,
+    "person": "N1-5",
+    "school": "海校",
+    "level_at_entry": 2,
+    "orientation": "general",
+    "teaching_cluster": "G1-1",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 161,
+        "task_id": "T1-5-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 162,
+        "task_id": "T1-5-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 163,
+        "task_id": "T1-5-2",
+        "independent": false
+      }
+    ],
+    "checkpoint": {
+      "score": 2,
+      "goal": "react",
+      "available_after": 196,
+      "mature": true,
+      "evidence": "U1-5",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N1",
+    "opened": 160,
+    "person": "N1-6",
+    "school": "江校",
+    "level_at_entry": 3,
+    "orientation": "media",
+    "teaching_cluster": "G1-1",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 161,
+        "task_id": "T1-6-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 162,
+        "task_id": "T1-6-1",
+        "independent": false
+      },
+      {
+        "activity": "F3",
+        "at": 163,
+        "task_id": "T1-6-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 3,
+      "goal": "interpret",
+      "available_after": 197,
+      "mature": true,
+      "evidence": "U1-6",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N1",
+    "opened": 160,
+    "person": "N1-7",
+    "school": "江校",
+    "level_at_entry": 4,
+    "orientation": "general",
+    "teaching_cluster": "G1-1",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 161,
+        "task_id": "T1-7-0",
+        "independent": false
+      },
+      {
+        "activity": "F4",
+        "at": 162,
+        "task_id": "T1-7-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 163,
+        "task_id": "T1-7-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 4,
+      "goal": "react",
+      "available_after": 198,
+      "mature": true,
+      "evidence": "U1-7",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N1",
+    "opened": 160,
+    "person": "N1-8",
+    "school": "海校",
+    "level_at_entry": 1,
+    "orientation": "general",
+    "teaching_cluster": "G1-1",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 161,
+        "task_id": "T1-8-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 162,
+        "task_id": "T1-8-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 163,
+        "task_id": "T1-8-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 5,
+      "goal": "interpret",
+      "available_after": 199,
+      "mature": true,
+      "evidence": "U1-8",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N1",
+    "opened": 160,
+    "person": "N1-9",
+    "school": "海校",
+    "level_at_entry": 2,
+    "orientation": "general",
+    "teaching_cluster": "G1-1",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 161,
+        "task_id": "T1-9-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 162,
+        "task_id": "T1-9-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 163,
+        "task_id": "T1-9-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 1,
+      "goal": "react",
+      "available_after": 200,
+      "mature": true,
+      "evidence": "T1-9-2",
+      "independent": false
+    }
+  },
+  {
+    "cohort": "N1",
+    "opened": 160,
+    "person": "N1-10",
+    "school": "江校",
+    "level_at_entry": 3,
+    "orientation": "general",
+    "teaching_cluster": "G1-2",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 161,
+        "task_id": "T1-10-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 162,
+        "task_id": "T1-10-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 163,
+        "task_id": "T1-10-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 2,
+      "goal": "interpret",
+      "available_after": 201,
+      "mature": true,
+      "evidence": "U1-10",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N1",
+    "opened": 160,
+    "person": "N1-11",
+    "school": "江校",
+    "level_at_entry": 4,
+    "orientation": "general",
+    "teaching_cluster": "G1-2",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 161,
+        "task_id": "T1-11-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 162,
+        "task_id": "T1-11-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 163,
+        "task_id": "T1-11-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 3,
+      "goal": "react",
+      "available_after": 191,
+      "mature": true,
+      "evidence": "U1-11",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N1",
+    "opened": 160,
+    "person": "N1-12",
+    "school": "海校",
+    "level_at_entry": 1,
+    "orientation": "media",
+    "teaching_cluster": "G1-2",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 161,
+        "task_id": "T1-12-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 162,
+        "task_id": "T1-12-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 163,
+        "task_id": "T1-12-2",
+        "independent": false
+      }
+    ],
+    "checkpoint": {
+      "score": 4,
+      "goal": "interpret",
+      "available_after": 192,
+      "mature": true,
+      "evidence": "U1-12",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N1",
+    "opened": 160,
+    "person": "N1-13",
+    "school": "海校",
+    "level_at_entry": 2,
+    "orientation": "general",
+    "teaching_cluster": "G1-2",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 161,
+        "task_id": "T1-13-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 162,
+        "task_id": "T1-13-1",
+        "independent": false
+      },
+      {
+        "activity": "F3",
+        "at": 163,
+        "task_id": "T1-13-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 5,
+      "goal": "react",
+      "available_after": 193,
+      "mature": true,
+      "evidence": "U1-13",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N1",
+    "opened": 160,
+    "person": "N1-14",
+    "school": "江校",
+    "level_at_entry": 3,
+    "orientation": "general",
+    "teaching_cluster": "G1-2",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 161,
+        "task_id": "T1-14-0",
+        "independent": false
+      },
+      {
+        "activity": "F2",
+        "at": 162,
+        "task_id": "T1-14-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 163,
+        "task_id": "T1-14-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 1,
+      "goal": "interpret",
+      "available_after": 194,
+      "mature": true,
+      "evidence": "U1-14",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N1",
+    "opened": 160,
+    "person": "N1-15",
+    "school": "江校",
+    "level_at_entry": 4,
+    "orientation": "general",
+    "teaching_cluster": "G1-3",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 161,
+        "task_id": "T1-15-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 162,
+        "task_id": "T1-15-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 163,
+        "task_id": "T1-15-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 2,
+      "goal": "react",
+      "available_after": 195,
+      "mature": true,
+      "evidence": "U1-15",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N1",
+    "opened": 160,
+    "person": "N1-16",
+    "school": "海校",
+    "level_at_entry": 1,
+    "orientation": "general",
+    "teaching_cluster": "G1-3",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 161,
+        "task_id": "T1-16-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 162,
+        "task_id": "T1-16-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 163,
+        "task_id": "T1-16-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 3,
+      "goal": "interpret",
+      "available_after": 196,
+      "mature": true,
+      "evidence": "U1-16",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N1",
+    "opened": 160,
+    "person": "N1-17",
+    "school": "海校",
+    "level_at_entry": 2,
+    "orientation": "general",
+    "teaching_cluster": "G1-3",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 161,
+        "task_id": "T1-17-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 162,
+        "task_id": "T1-17-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 163,
+        "task_id": "T1-17-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 4,
+      "goal": "react",
+      "available_after": 197,
+      "mature": true,
+      "evidence": "U1-17",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N1",
+    "opened": 160,
+    "person": "N1-18",
+    "school": "江校",
+    "level_at_entry": 3,
+    "orientation": "media",
+    "teaching_cluster": "G1-3",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 161,
+        "task_id": "T1-18-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 162,
+        "task_id": "T1-18-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 163,
+        "task_id": "T1-18-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 5,
+      "goal": "interpret",
+      "available_after": 198,
+      "mature": true,
+      "evidence": "T1-18-2",
+      "independent": false
+    }
+  },
+  {
+    "cohort": "N1",
+    "opened": 160,
+    "person": "N1-19",
+    "school": "江校",
+    "level_at_entry": 4,
+    "orientation": "general",
+    "teaching_cluster": "G1-3",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 161,
+        "task_id": "T1-19-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 162,
+        "task_id": "T1-19-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 163,
+        "task_id": "T1-19-2",
+        "independent": false
+      }
+    ],
+    "checkpoint": {
+      "score": 1,
+      "goal": "react",
+      "available_after": 199,
+      "mature": true,
+      "evidence": "U1-19",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N1",
+    "opened": 160,
+    "person": "N1-20",
+    "school": "海校",
+    "level_at_entry": 1,
+    "orientation": "general",
+    "teaching_cluster": "G1-4",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 161,
+        "task_id": "T1-20-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 162,
+        "task_id": "T1-20-1",
+        "independent": false
+      },
+      {
+        "activity": "F3",
+        "at": 163,
+        "task_id": "T1-20-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 2,
+      "goal": "interpret",
+      "available_after": 200,
+      "mature": true,
+      "evidence": "U1-20",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N1",
+    "opened": 160,
+    "person": "N1-21",
+    "school": "海校",
+    "level_at_entry": 2,
+    "orientation": "general",
+    "teaching_cluster": "G1-4",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 161,
+        "task_id": "T1-21-0",
+        "independent": false
+      },
+      {
+        "activity": "F4",
+        "at": 162,
+        "task_id": "T1-21-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 163,
+        "task_id": "T1-21-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 3,
+      "goal": "react",
+      "available_after": 201,
+      "mature": true,
+      "evidence": "U1-21",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N1",
+    "opened": 160,
+    "person": "N1-22",
+    "school": "江校",
+    "level_at_entry": 3,
+    "orientation": "general",
+    "teaching_cluster": "G1-4",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 161,
+        "task_id": "T1-22-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 162,
+        "task_id": "T1-22-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 163,
+        "task_id": "T1-22-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 4,
+      "goal": "interpret",
+      "available_after": 191,
+      "mature": true,
+      "evidence": "U1-22",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N1",
+    "opened": 160,
+    "person": "N1-23",
+    "school": "江校",
+    "level_at_entry": 4,
+    "orientation": "general",
+    "teaching_cluster": "G1-4",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 161,
+        "task_id": "T1-23-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 162,
+        "task_id": "T1-23-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 163,
+        "task_id": "T1-23-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 5,
+      "goal": "react",
+      "available_after": 192,
+      "mature": true,
+      "evidence": "U1-23",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N1",
+    "opened": 160,
+    "person": "N1-24",
+    "school": "海校",
+    "level_at_entry": 1,
+    "orientation": "media",
+    "teaching_cluster": "G1-4",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 161,
+        "task_id": "T1-24-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 162,
+        "task_id": "T1-24-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 163,
+        "task_id": "T1-24-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 1,
+      "goal": "interpret",
+      "available_after": 193,
+      "mature": true,
+      "evidence": "U1-24",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N1",
+    "opened": 160,
+    "person": "N1-25",
+    "school": "海校",
+    "level_at_entry": 2,
+    "orientation": "general",
+    "teaching_cluster": "G1-5",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 161,
+        "task_id": "T1-25-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 162,
+        "task_id": "T1-25-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 163,
+        "task_id": "T1-25-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 2,
+      "goal": "react",
+      "available_after": 194,
+      "mature": true,
+      "evidence": "U1-25",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N1",
+    "opened": 160,
+    "person": "N1-26",
+    "school": "江校",
+    "level_at_entry": 3,
+    "orientation": "general",
+    "teaching_cluster": "G1-5",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 161,
+        "task_id": "T1-26-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 162,
+        "task_id": "T1-26-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 163,
+        "task_id": "T1-26-2",
+        "independent": false
+      }
+    ],
+    "checkpoint": {
+      "score": 3,
+      "goal": "interpret",
+      "available_after": 195,
+      "mature": true,
+      "evidence": "U1-26",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N1",
+    "opened": 160,
+    "person": "N1-27",
+    "school": "江校",
+    "level_at_entry": 4,
+    "orientation": "general",
+    "teaching_cluster": "G1-5",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 161,
+        "task_id": "T1-27-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 162,
+        "task_id": "T1-27-1",
+        "independent": false
+      },
+      {
+        "activity": "F3",
+        "at": 163,
+        "task_id": "T1-27-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 4,
+      "goal": "react",
+      "available_after": 196,
+      "mature": true,
+      "evidence": "T1-27-2",
+      "independent": false
+    }
+  },
+  {
+    "cohort": "N2",
+    "opened": 220,
+    "person": "N2-0",
+    "school": "海校",
+    "level_at_entry": 1,
+    "orientation": "media",
+    "teaching_cluster": "G2-0",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 221,
+        "task_id": "T2-0-0",
+        "independent": false
+      },
+      {
+        "activity": "F4",
+        "at": 222,
+        "task_id": "T2-0-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 223,
+        "task_id": "T2-0-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 3,
+      "goal": "interpret",
+      "available_after": 251,
+      "mature": true,
+      "evidence": "T2-0-2",
+      "independent": false
+    }
+  },
+  {
+    "cohort": "N2",
+    "opened": 220,
+    "person": "N2-1",
+    "school": "海校",
+    "level_at_entry": 2,
+    "orientation": "general",
+    "teaching_cluster": "G2-0",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 221,
+        "task_id": "T2-1-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 222,
+        "task_id": "T2-1-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 223,
+        "task_id": "T2-1-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 4,
+      "goal": "react",
+      "available_after": 252,
+      "mature": true,
+      "evidence": "U2-1",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N2",
+    "opened": 220,
+    "person": "N2-2",
+    "school": "江校",
+    "level_at_entry": 3,
+    "orientation": "general",
+    "teaching_cluster": "G2-0",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 221,
+        "task_id": "T2-2-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 222,
+        "task_id": "T2-2-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 223,
+        "task_id": "T2-2-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 5,
+      "goal": "interpret",
+      "available_after": 253,
+      "mature": true,
+      "evidence": "U2-2",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N2",
+    "opened": 220,
+    "person": "N2-3",
+    "school": "江校",
+    "level_at_entry": 4,
+    "orientation": "general",
+    "teaching_cluster": "G2-0",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 221,
+        "task_id": "T2-3-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 222,
+        "task_id": "T2-3-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 223,
+        "task_id": "T2-3-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 1,
+      "goal": "react",
+      "available_after": 254,
+      "mature": true,
+      "evidence": "U2-3",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N2",
+    "opened": 220,
+    "person": "N2-4",
+    "school": "海校",
+    "level_at_entry": 1,
+    "orientation": "general",
+    "teaching_cluster": "G2-0",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 221,
+        "task_id": "T2-4-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 222,
+        "task_id": "T2-4-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 223,
+        "task_id": "T2-4-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 2,
+      "goal": "interpret",
+      "available_after": 255,
+      "mature": true,
+      "evidence": "U2-4",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N2",
+    "opened": 220,
+    "person": "N2-5",
+    "school": "海校",
+    "level_at_entry": 2,
+    "orientation": "general",
+    "teaching_cluster": "G2-1",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 221,
+        "task_id": "T2-5-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 222,
+        "task_id": "T2-5-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 223,
+        "task_id": "T2-5-2",
+        "independent": false
+      }
+    ],
+    "checkpoint": {
+      "score": 3,
+      "goal": "react",
+      "available_after": 256,
+      "mature": true,
+      "evidence": "U2-5",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N2",
+    "opened": 220,
+    "person": "N2-6",
+    "school": "江校",
+    "level_at_entry": 3,
+    "orientation": "media",
+    "teaching_cluster": "G2-1",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 221,
+        "task_id": "T2-6-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 222,
+        "task_id": "T2-6-1",
+        "independent": false
+      },
+      {
+        "activity": "F3",
+        "at": 223,
+        "task_id": "T2-6-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 4,
+      "goal": "interpret",
+      "available_after": 257,
+      "mature": true,
+      "evidence": "U2-6",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N2",
+    "opened": 220,
+    "person": "N2-7",
+    "school": "江校",
+    "level_at_entry": 4,
+    "orientation": "general",
+    "teaching_cluster": "G2-1",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 221,
+        "task_id": "T2-7-0",
+        "independent": false
+      },
+      {
+        "activity": "F2",
+        "at": 222,
+        "task_id": "T2-7-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 223,
+        "task_id": "T2-7-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 5,
+      "goal": "react",
+      "available_after": 258,
+      "mature": true,
+      "evidence": "U2-7",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N2",
+    "opened": 220,
+    "person": "N2-8",
+    "school": "海校",
+    "level_at_entry": 1,
+    "orientation": "general",
+    "teaching_cluster": "G2-1",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 221,
+        "task_id": "T2-8-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 222,
+        "task_id": "T2-8-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 223,
+        "task_id": "T2-8-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 1,
+      "goal": "interpret",
+      "available_after": 259,
+      "mature": true,
+      "evidence": "U2-8",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N2",
+    "opened": 220,
+    "person": "N2-9",
+    "school": "海校",
+    "level_at_entry": 2,
+    "orientation": "general",
+    "teaching_cluster": "G2-1",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 221,
+        "task_id": "T2-9-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 222,
+        "task_id": "T2-9-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 223,
+        "task_id": "T2-9-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 2,
+      "goal": "react",
+      "available_after": 260,
+      "mature": true,
+      "evidence": "T2-9-2",
+      "independent": false
+    }
+  },
+  {
+    "cohort": "N2",
+    "opened": 220,
+    "person": "N2-10",
+    "school": "江校",
+    "level_at_entry": 3,
+    "orientation": "general",
+    "teaching_cluster": "G2-2",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 221,
+        "task_id": "T2-10-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 222,
+        "task_id": "T2-10-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 223,
+        "task_id": "T2-10-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 3,
+      "goal": "interpret",
+      "available_after": 261,
+      "mature": true,
+      "evidence": "U2-10",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N2",
+    "opened": 220,
+    "person": "N2-11",
+    "school": "江校",
+    "level_at_entry": 4,
+    "orientation": "general",
+    "teaching_cluster": "G2-2",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 221,
+        "task_id": "T2-11-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 222,
+        "task_id": "T2-11-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 223,
+        "task_id": "T2-11-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 4,
+      "goal": "react",
+      "available_after": 251,
+      "mature": true,
+      "evidence": "U2-11",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N2",
+    "opened": 220,
+    "person": "N2-12",
+    "school": "海校",
+    "level_at_entry": 1,
+    "orientation": "media",
+    "teaching_cluster": "G2-2",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 221,
+        "task_id": "T2-12-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 222,
+        "task_id": "T2-12-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 223,
+        "task_id": "T2-12-2",
+        "independent": false
+      }
+    ],
+    "checkpoint": {
+      "score": 5,
+      "goal": "interpret",
+      "available_after": 252,
+      "mature": true,
+      "evidence": "U2-12",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N2",
+    "opened": 220,
+    "person": "N2-13",
+    "school": "海校",
+    "level_at_entry": 2,
+    "orientation": "general",
+    "teaching_cluster": "G2-2",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 221,
+        "task_id": "T2-13-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 222,
+        "task_id": "T2-13-1",
+        "independent": false
+      },
+      {
+        "activity": "F3",
+        "at": 223,
+        "task_id": "T2-13-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 1,
+      "goal": "react",
+      "available_after": 253,
+      "mature": true,
+      "evidence": "U2-13",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N2",
+    "opened": 220,
+    "person": "N2-14",
+    "school": "江校",
+    "level_at_entry": 3,
+    "orientation": "general",
+    "teaching_cluster": "G2-2",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 221,
+        "task_id": "T2-14-0",
+        "independent": false
+      },
+      {
+        "activity": "F4",
+        "at": 222,
+        "task_id": "T2-14-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 223,
+        "task_id": "T2-14-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 2,
+      "goal": "interpret",
+      "available_after": 254,
+      "mature": true,
+      "evidence": "U2-14",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N2",
+    "opened": 220,
+    "person": "N2-15",
+    "school": "江校",
+    "level_at_entry": 4,
+    "orientation": "general",
+    "teaching_cluster": "G2-3",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 221,
+        "task_id": "T2-15-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 222,
+        "task_id": "T2-15-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 223,
+        "task_id": "T2-15-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 3,
+      "goal": "react",
+      "available_after": 255,
+      "mature": true,
+      "evidence": "U2-15",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N2",
+    "opened": 220,
+    "person": "N2-16",
+    "school": "海校",
+    "level_at_entry": 1,
+    "orientation": "general",
+    "teaching_cluster": "G2-3",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 221,
+        "task_id": "T2-16-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 222,
+        "task_id": "T2-16-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 223,
+        "task_id": "T2-16-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 4,
+      "goal": "interpret",
+      "available_after": 256,
+      "mature": true,
+      "evidence": "U2-16",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N2",
+    "opened": 220,
+    "person": "N2-17",
+    "school": "海校",
+    "level_at_entry": 2,
+    "orientation": "general",
+    "teaching_cluster": "G2-3",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 221,
+        "task_id": "T2-17-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 222,
+        "task_id": "T2-17-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 223,
+        "task_id": "T2-17-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 5,
+      "goal": "react",
+      "available_after": 257,
+      "mature": true,
+      "evidence": "U2-17",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N2",
+    "opened": 220,
+    "person": "N2-18",
+    "school": "江校",
+    "level_at_entry": 3,
+    "orientation": "media",
+    "teaching_cluster": "G2-3",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 221,
+        "task_id": "T2-18-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 222,
+        "task_id": "T2-18-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 223,
+        "task_id": "T2-18-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 1,
+      "goal": "interpret",
+      "available_after": 258,
+      "mature": true,
+      "evidence": "T2-18-2",
+      "independent": false
+    }
+  },
+  {
+    "cohort": "N2",
+    "opened": 220,
+    "person": "N2-19",
+    "school": "江校",
+    "level_at_entry": 4,
+    "orientation": "general",
+    "teaching_cluster": "G2-3",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 221,
+        "task_id": "T2-19-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 222,
+        "task_id": "T2-19-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 223,
+        "task_id": "T2-19-2",
+        "independent": false
+      }
+    ],
+    "checkpoint": {
+      "score": 2,
+      "goal": "react",
+      "available_after": 259,
+      "mature": true,
+      "evidence": "U2-19",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N2",
+    "opened": 220,
+    "person": "N2-20",
+    "school": "海校",
+    "level_at_entry": 1,
+    "orientation": "general",
+    "teaching_cluster": "G2-4",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 221,
+        "task_id": "T2-20-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 222,
+        "task_id": "T2-20-1",
+        "independent": false
+      },
+      {
+        "activity": "F3",
+        "at": 223,
+        "task_id": "T2-20-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 3,
+      "goal": "interpret",
+      "available_after": 260,
+      "mature": true,
+      "evidence": "U2-20",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N2",
+    "opened": 220,
+    "person": "N2-21",
+    "school": "海校",
+    "level_at_entry": 2,
+    "orientation": "general",
+    "teaching_cluster": "G2-4",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 221,
+        "task_id": "T2-21-0",
+        "independent": false
+      },
+      {
+        "activity": "F2",
+        "at": 222,
+        "task_id": "T2-21-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 223,
+        "task_id": "T2-21-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 4,
+      "goal": "react",
+      "available_after": 261,
+      "mature": true,
+      "evidence": "U2-21",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N2",
+    "opened": 220,
+    "person": "N2-22",
+    "school": "江校",
+    "level_at_entry": 3,
+    "orientation": "general",
+    "teaching_cluster": "G2-4",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 221,
+        "task_id": "T2-22-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 222,
+        "task_id": "T2-22-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 223,
+        "task_id": "T2-22-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 5,
+      "goal": "interpret",
+      "available_after": 251,
+      "mature": true,
+      "evidence": "U2-22",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N2",
+    "opened": 220,
+    "person": "N2-23",
+    "school": "江校",
+    "level_at_entry": 4,
+    "orientation": "general",
+    "teaching_cluster": "G2-4",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 221,
+        "task_id": "T2-23-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 222,
+        "task_id": "T2-23-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 223,
+        "task_id": "T2-23-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 1,
+      "goal": "react",
+      "available_after": 252,
+      "mature": true,
+      "evidence": "U2-23",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N2",
+    "opened": 220,
+    "person": "N2-24",
+    "school": "海校",
+    "level_at_entry": 1,
+    "orientation": "media",
+    "teaching_cluster": "G2-4",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 221,
+        "task_id": "T2-24-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 222,
+        "task_id": "T2-24-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 223,
+        "task_id": "T2-24-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 2,
+      "goal": "interpret",
+      "available_after": 253,
+      "mature": true,
+      "evidence": "U2-24",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N2",
+    "opened": 220,
+    "person": "N2-25",
+    "school": "海校",
+    "level_at_entry": 2,
+    "orientation": "general",
+    "teaching_cluster": "G2-5",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 221,
+        "task_id": "T2-25-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 222,
+        "task_id": "T2-25-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 223,
+        "task_id": "T2-25-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 3,
+      "goal": "react",
+      "available_after": 254,
+      "mature": true,
+      "evidence": "U2-25",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N2",
+    "opened": 220,
+    "person": "N2-26",
+    "school": "江校",
+    "level_at_entry": 3,
+    "orientation": "general",
+    "teaching_cluster": "G2-5",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 221,
+        "task_id": "T2-26-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 222,
+        "task_id": "T2-26-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 223,
+        "task_id": "T2-26-2",
+        "independent": false
+      }
+    ],
+    "checkpoint": {
+      "score": 4,
+      "goal": "interpret",
+      "available_after": 255,
+      "mature": true,
+      "evidence": "U2-26",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N2",
+    "opened": 220,
+    "person": "N2-27",
+    "school": "江校",
+    "level_at_entry": 4,
+    "orientation": "general",
+    "teaching_cluster": "G2-5",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 221,
+        "task_id": "T2-27-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 222,
+        "task_id": "T2-27-1",
+        "independent": false
+      },
+      {
+        "activity": "F3",
+        "at": 223,
+        "task_id": "T2-27-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 5,
+      "goal": "react",
+      "available_after": 256,
+      "mature": true,
+      "evidence": "T2-27-2",
+      "independent": false
+    }
+  },
+  {
+    "cohort": "N3",
+    "opened": 280,
+    "person": "N3-0",
+    "school": "海校",
+    "level_at_entry": 1,
+    "orientation": "media",
+    "teaching_cluster": "G3-0",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 281,
+        "task_id": "T3-0-0",
+        "independent": false
+      },
+      {
+        "activity": "F2",
+        "at": 282,
+        "task_id": "T3-0-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 283,
+        "task_id": "T3-0-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 4,
+      "goal": "interpret",
+      "available_after": 311,
+      "mature": true,
+      "evidence": "T3-0-2",
+      "independent": false
+    }
+  },
+  {
+    "cohort": "N3",
+    "opened": 280,
+    "person": "N3-1",
+    "school": "海校",
+    "level_at_entry": 2,
+    "orientation": "general",
+    "teaching_cluster": "G3-0",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 281,
+        "task_id": "T3-1-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 282,
+        "task_id": "T3-1-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 283,
+        "task_id": "T3-1-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 5,
+      "goal": "react",
+      "available_after": 312,
+      "mature": true,
+      "evidence": "U3-1",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N3",
+    "opened": 280,
+    "person": "N3-2",
+    "school": "江校",
+    "level_at_entry": 3,
+    "orientation": "general",
+    "teaching_cluster": "G3-0",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 281,
+        "task_id": "T3-2-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 282,
+        "task_id": "T3-2-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 283,
+        "task_id": "T3-2-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 1,
+      "goal": "interpret",
+      "available_after": 313,
+      "mature": true,
+      "evidence": "U3-2",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N3",
+    "opened": 280,
+    "person": "N3-3",
+    "school": "江校",
+    "level_at_entry": 4,
+    "orientation": "general",
+    "teaching_cluster": "G3-0",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 281,
+        "task_id": "T3-3-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 282,
+        "task_id": "T3-3-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 283,
+        "task_id": "T3-3-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 2,
+      "goal": "react",
+      "available_after": 314,
+      "mature": true,
+      "evidence": "U3-3",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N3",
+    "opened": 280,
+    "person": "N3-4",
+    "school": "海校",
+    "level_at_entry": 1,
+    "orientation": "general",
+    "teaching_cluster": "G3-0",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 281,
+        "task_id": "T3-4-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 282,
+        "task_id": "T3-4-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 283,
+        "task_id": "T3-4-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 3,
+      "goal": "interpret",
+      "available_after": 315,
+      "mature": true,
+      "evidence": "U3-4",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N3",
+    "opened": 280,
+    "person": "N3-5",
+    "school": "海校",
+    "level_at_entry": 2,
+    "orientation": "general",
+    "teaching_cluster": "G3-1",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 281,
+        "task_id": "T3-5-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 282,
+        "task_id": "T3-5-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 283,
+        "task_id": "T3-5-2",
+        "independent": false
+      }
+    ],
+    "checkpoint": {
+      "score": 4,
+      "goal": "react",
+      "available_after": 316,
+      "mature": true,
+      "evidence": "U3-5",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N3",
+    "opened": 280,
+    "person": "N3-6",
+    "school": "江校",
+    "level_at_entry": 3,
+    "orientation": "media",
+    "teaching_cluster": "G3-1",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 281,
+        "task_id": "T3-6-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 282,
+        "task_id": "T3-6-1",
+        "independent": false
+      },
+      {
+        "activity": "F3",
+        "at": 283,
+        "task_id": "T3-6-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 5,
+      "goal": "interpret",
+      "available_after": 317,
+      "mature": true,
+      "evidence": "U3-6",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N3",
+    "opened": 280,
+    "person": "N3-7",
+    "school": "江校",
+    "level_at_entry": 4,
+    "orientation": "general",
+    "teaching_cluster": "G3-1",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 281,
+        "task_id": "T3-7-0",
+        "independent": false
+      },
+      {
+        "activity": "F4",
+        "at": 282,
+        "task_id": "T3-7-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 283,
+        "task_id": "T3-7-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 1,
+      "goal": "react",
+      "available_after": 318,
+      "mature": true,
+      "evidence": "U3-7",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N3",
+    "opened": 280,
+    "person": "N3-8",
+    "school": "海校",
+    "level_at_entry": 1,
+    "orientation": "general",
+    "teaching_cluster": "G3-1",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 281,
+        "task_id": "T3-8-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 282,
+        "task_id": "T3-8-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 283,
+        "task_id": "T3-8-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 2,
+      "goal": "interpret",
+      "available_after": 319,
+      "mature": true,
+      "evidence": "U3-8",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N3",
+    "opened": 280,
+    "person": "N3-9",
+    "school": "海校",
+    "level_at_entry": 2,
+    "orientation": "general",
+    "teaching_cluster": "G3-1",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 281,
+        "task_id": "T3-9-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 282,
+        "task_id": "T3-9-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 283,
+        "task_id": "T3-9-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 3,
+      "goal": "react",
+      "available_after": 320,
+      "mature": true,
+      "evidence": "T3-9-2",
+      "independent": false
+    }
+  },
+  {
+    "cohort": "N3",
+    "opened": 280,
+    "person": "N3-10",
+    "school": "江校",
+    "level_at_entry": 3,
+    "orientation": "general",
+    "teaching_cluster": "G3-2",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 281,
+        "task_id": "T3-10-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 282,
+        "task_id": "T3-10-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 283,
+        "task_id": "T3-10-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 4,
+      "goal": "interpret",
+      "available_after": 321,
+      "mature": true,
+      "evidence": "U3-10",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N3",
+    "opened": 280,
+    "person": "N3-11",
+    "school": "江校",
+    "level_at_entry": 4,
+    "orientation": "general",
+    "teaching_cluster": "G3-2",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 281,
+        "task_id": "T3-11-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 282,
+        "task_id": "T3-11-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 283,
+        "task_id": "T3-11-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 5,
+      "goal": "react",
+      "available_after": 311,
+      "mature": true,
+      "evidence": "U3-11",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N3",
+    "opened": 280,
+    "person": "N3-12",
+    "school": "海校",
+    "level_at_entry": 1,
+    "orientation": "media",
+    "teaching_cluster": "G3-2",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 281,
+        "task_id": "T3-12-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 282,
+        "task_id": "T3-12-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 283,
+        "task_id": "T3-12-2",
+        "independent": false
+      }
+    ],
+    "checkpoint": {
+      "score": 1,
+      "goal": "interpret",
+      "available_after": 312,
+      "mature": true,
+      "evidence": "U3-12",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N3",
+    "opened": 280,
+    "person": "N3-13",
+    "school": "海校",
+    "level_at_entry": 2,
+    "orientation": "general",
+    "teaching_cluster": "G3-2",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 281,
+        "task_id": "T3-13-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 282,
+        "task_id": "T3-13-1",
+        "independent": false
+      },
+      {
+        "activity": "F3",
+        "at": 283,
+        "task_id": "T3-13-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 2,
+      "goal": "react",
+      "available_after": 313,
+      "mature": true,
+      "evidence": "U3-13",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N3",
+    "opened": 280,
+    "person": "N3-14",
+    "school": "江校",
+    "level_at_entry": 3,
+    "orientation": "general",
+    "teaching_cluster": "G3-2",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 281,
+        "task_id": "T3-14-0",
+        "independent": false
+      },
+      {
+        "activity": "F2",
+        "at": 282,
+        "task_id": "T3-14-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 283,
+        "task_id": "T3-14-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 3,
+      "goal": "interpret",
+      "available_after": 314,
+      "mature": true,
+      "evidence": "U3-14",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N3",
+    "opened": 280,
+    "person": "N3-15",
+    "school": "江校",
+    "level_at_entry": 4,
+    "orientation": "general",
+    "teaching_cluster": "G3-3",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 281,
+        "task_id": "T3-15-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 282,
+        "task_id": "T3-15-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 283,
+        "task_id": "T3-15-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 4,
+      "goal": "react",
+      "available_after": 315,
+      "mature": true,
+      "evidence": "U3-15",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N3",
+    "opened": 280,
+    "person": "N3-16",
+    "school": "海校",
+    "level_at_entry": 1,
+    "orientation": "general",
+    "teaching_cluster": "G3-3",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 281,
+        "task_id": "T3-16-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 282,
+        "task_id": "T3-16-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 283,
+        "task_id": "T3-16-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 5,
+      "goal": "interpret",
+      "available_after": 316,
+      "mature": true,
+      "evidence": "U3-16",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N3",
+    "opened": 280,
+    "person": "N3-17",
+    "school": "海校",
+    "level_at_entry": 2,
+    "orientation": "general",
+    "teaching_cluster": "G3-3",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 281,
+        "task_id": "T3-17-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 282,
+        "task_id": "T3-17-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 283,
+        "task_id": "T3-17-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 1,
+      "goal": "react",
+      "available_after": 317,
+      "mature": true,
+      "evidence": "U3-17",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N3",
+    "opened": 280,
+    "person": "N3-18",
+    "school": "江校",
+    "level_at_entry": 3,
+    "orientation": "media",
+    "teaching_cluster": "G3-3",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 281,
+        "task_id": "T3-18-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 282,
+        "task_id": "T3-18-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 283,
+        "task_id": "T3-18-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 2,
+      "goal": "interpret",
+      "available_after": 318,
+      "mature": true,
+      "evidence": "T3-18-2",
+      "independent": false
+    }
+  },
+  {
+    "cohort": "N3",
+    "opened": 280,
+    "person": "N3-19",
+    "school": "江校",
+    "level_at_entry": 4,
+    "orientation": "general",
+    "teaching_cluster": "G3-3",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 281,
+        "task_id": "T3-19-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 282,
+        "task_id": "T3-19-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 283,
+        "task_id": "T3-19-2",
+        "independent": false
+      }
+    ],
+    "checkpoint": {
+      "score": 3,
+      "goal": "react",
+      "available_after": 319,
+      "mature": true,
+      "evidence": "U3-19",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N3",
+    "opened": 280,
+    "person": "N3-20",
+    "school": "海校",
+    "level_at_entry": 1,
+    "orientation": "general",
+    "teaching_cluster": "G3-4",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 281,
+        "task_id": "T3-20-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 282,
+        "task_id": "T3-20-1",
+        "independent": false
+      },
+      {
+        "activity": "F3",
+        "at": 283,
+        "task_id": "T3-20-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 4,
+      "goal": "interpret",
+      "available_after": 320,
+      "mature": true,
+      "evidence": "U3-20",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N3",
+    "opened": 280,
+    "person": "N3-21",
+    "school": "海校",
+    "level_at_entry": 2,
+    "orientation": "general",
+    "teaching_cluster": "G3-4",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 281,
+        "task_id": "T3-21-0",
+        "independent": false
+      },
+      {
+        "activity": "F4",
+        "at": 282,
+        "task_id": "T3-21-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 283,
+        "task_id": "T3-21-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 5,
+      "goal": "react",
+      "available_after": 321,
+      "mature": true,
+      "evidence": "U3-21",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N3",
+    "opened": 280,
+    "person": "N3-22",
+    "school": "江校",
+    "level_at_entry": 3,
+    "orientation": "general",
+    "teaching_cluster": "G3-4",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 281,
+        "task_id": "T3-22-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 282,
+        "task_id": "T3-22-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 283,
+        "task_id": "T3-22-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 1,
+      "goal": "interpret",
+      "available_after": 311,
+      "mature": true,
+      "evidence": "U3-22",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N3",
+    "opened": 280,
+    "person": "N3-23",
+    "school": "江校",
+    "level_at_entry": 4,
+    "orientation": "general",
+    "teaching_cluster": "G3-4",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 281,
+        "task_id": "T3-23-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 282,
+        "task_id": "T3-23-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 283,
+        "task_id": "T3-23-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 2,
+      "goal": "react",
+      "available_after": 312,
+      "mature": true,
+      "evidence": "U3-23",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N3",
+    "opened": 280,
+    "person": "N3-24",
+    "school": "海校",
+    "level_at_entry": 1,
+    "orientation": "media",
+    "teaching_cluster": "G3-4",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 281,
+        "task_id": "T3-24-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 282,
+        "task_id": "T3-24-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 283,
+        "task_id": "T3-24-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 3,
+      "goal": "interpret",
+      "available_after": 313,
+      "mature": true,
+      "evidence": "U3-24",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N3",
+    "opened": 280,
+    "person": "N3-25",
+    "school": "海校",
+    "level_at_entry": 2,
+    "orientation": "general",
+    "teaching_cluster": "G3-5",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 281,
+        "task_id": "T3-25-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 282,
+        "task_id": "T3-25-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 283,
+        "task_id": "T3-25-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 4,
+      "goal": "react",
+      "available_after": 314,
+      "mature": true,
+      "evidence": "U3-25",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N3",
+    "opened": 280,
+    "person": "N3-26",
+    "school": "江校",
+    "level_at_entry": 3,
+    "orientation": "general",
+    "teaching_cluster": "G3-5",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 281,
+        "task_id": "T3-26-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 282,
+        "task_id": "T3-26-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 283,
+        "task_id": "T3-26-2",
+        "independent": false
+      }
+    ],
+    "checkpoint": {
+      "score": 5,
+      "goal": "interpret",
+      "available_after": 315,
+      "mature": true,
+      "evidence": "U3-26",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N3",
+    "opened": 280,
+    "person": "N3-27",
+    "school": "江校",
+    "level_at_entry": 4,
+    "orientation": "general",
+    "teaching_cluster": "G3-5",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 281,
+        "task_id": "T3-27-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 282,
+        "task_id": "T3-27-1",
+        "independent": false
+      },
+      {
+        "activity": "F3",
+        "at": 283,
+        "task_id": "T3-27-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 1,
+      "goal": "react",
+      "available_after": 316,
+      "mature": true,
+      "evidence": "T3-27-2",
+      "independent": false
+    }
+  },
+  {
+    "cohort": "N4",
+    "opened": 340,
+    "person": "N4-0",
+    "school": "海校",
+    "level_at_entry": 1,
+    "orientation": "media",
+    "teaching_cluster": "G4-0",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 341,
+        "task_id": "T4-0-0",
+        "independent": false
+      },
+      {
+        "activity": "F4",
+        "at": 342,
+        "task_id": "T4-0-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 343,
+        "task_id": "T4-0-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 5,
+      "goal": "interpret",
+      "available_after": 371,
+      "mature": true,
+      "evidence": "T4-0-2",
+      "independent": false
+    }
+  },
+  {
+    "cohort": "N4",
+    "opened": 340,
+    "person": "N4-1",
+    "school": "海校",
+    "level_at_entry": 2,
+    "orientation": "general",
+    "teaching_cluster": "G4-0",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 341,
+        "task_id": "T4-1-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 342,
+        "task_id": "T4-1-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 343,
+        "task_id": "T4-1-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 1,
+      "goal": "react",
+      "available_after": 372,
+      "mature": true,
+      "evidence": "U4-1",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N4",
+    "opened": 340,
+    "person": "N4-2",
+    "school": "江校",
+    "level_at_entry": 3,
+    "orientation": "general",
+    "teaching_cluster": "G4-0",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 341,
+        "task_id": "T4-2-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 342,
+        "task_id": "T4-2-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 343,
+        "task_id": "T4-2-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 2,
+      "goal": "interpret",
+      "available_after": 373,
+      "mature": true,
+      "evidence": "U4-2",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N4",
+    "opened": 340,
+    "person": "N4-3",
+    "school": "江校",
+    "level_at_entry": 4,
+    "orientation": "general",
+    "teaching_cluster": "G4-0",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 341,
+        "task_id": "T4-3-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 342,
+        "task_id": "T4-3-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 343,
+        "task_id": "T4-3-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 3,
+      "goal": "react",
+      "available_after": 374,
+      "mature": true,
+      "evidence": "U4-3",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N4",
+    "opened": 340,
+    "person": "N4-4",
+    "school": "海校",
+    "level_at_entry": 1,
+    "orientation": "general",
+    "teaching_cluster": "G4-0",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 341,
+        "task_id": "T4-4-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 342,
+        "task_id": "T4-4-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 343,
+        "task_id": "T4-4-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 4,
+      "goal": "interpret",
+      "available_after": 375,
+      "mature": true,
+      "evidence": "U4-4",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N4",
+    "opened": 340,
+    "person": "N4-5",
+    "school": "海校",
+    "level_at_entry": 2,
+    "orientation": "general",
+    "teaching_cluster": "G4-1",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 341,
+        "task_id": "T4-5-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 342,
+        "task_id": "T4-5-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 343,
+        "task_id": "T4-5-2",
+        "independent": false
+      }
+    ],
+    "checkpoint": {
+      "score": 5,
+      "goal": "react",
+      "available_after": 376,
+      "mature": true,
+      "evidence": "U4-5",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N4",
+    "opened": 340,
+    "person": "N4-6",
+    "school": "江校",
+    "level_at_entry": 3,
+    "orientation": "media",
+    "teaching_cluster": "G4-1",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 341,
+        "task_id": "T4-6-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 342,
+        "task_id": "T4-6-1",
+        "independent": false
+      },
+      {
+        "activity": "F3",
+        "at": 343,
+        "task_id": "T4-6-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 1,
+      "goal": "interpret",
+      "available_after": 377,
+      "mature": true,
+      "evidence": "U4-6",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N4",
+    "opened": 340,
+    "person": "N4-7",
+    "school": "江校",
+    "level_at_entry": 4,
+    "orientation": "general",
+    "teaching_cluster": "G4-1",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 341,
+        "task_id": "T4-7-0",
+        "independent": false
+      },
+      {
+        "activity": "F2",
+        "at": 342,
+        "task_id": "T4-7-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 343,
+        "task_id": "T4-7-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 2,
+      "goal": "react",
+      "available_after": 378,
+      "mature": true,
+      "evidence": "U4-7",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N4",
+    "opened": 340,
+    "person": "N4-8",
+    "school": "海校",
+    "level_at_entry": 1,
+    "orientation": "general",
+    "teaching_cluster": "G4-1",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 341,
+        "task_id": "T4-8-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 342,
+        "task_id": "T4-8-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 343,
+        "task_id": "T4-8-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 3,
+      "goal": "interpret",
+      "available_after": 379,
+      "mature": true,
+      "evidence": "U4-8",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N4",
+    "opened": 340,
+    "person": "N4-9",
+    "school": "海校",
+    "level_at_entry": 2,
+    "orientation": "general",
+    "teaching_cluster": "G4-1",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 341,
+        "task_id": "T4-9-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 342,
+        "task_id": "T4-9-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 343,
+        "task_id": "T4-9-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 4,
+      "goal": "react",
+      "available_after": 380,
+      "mature": true,
+      "evidence": "T4-9-2",
+      "independent": false
+    }
+  },
+  {
+    "cohort": "N4",
+    "opened": 340,
+    "person": "N4-10",
+    "school": "江校",
+    "level_at_entry": 3,
+    "orientation": "general",
+    "teaching_cluster": "G4-2",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 341,
+        "task_id": "T4-10-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 342,
+        "task_id": "T4-10-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 343,
+        "task_id": "T4-10-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 5,
+      "goal": "interpret",
+      "available_after": 381,
+      "mature": true,
+      "evidence": "U4-10",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N4",
+    "opened": 340,
+    "person": "N4-11",
+    "school": "江校",
+    "level_at_entry": 4,
+    "orientation": "general",
+    "teaching_cluster": "G4-2",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 341,
+        "task_id": "T4-11-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 342,
+        "task_id": "T4-11-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 343,
+        "task_id": "T4-11-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 1,
+      "goal": "react",
+      "available_after": 371,
+      "mature": true,
+      "evidence": "U4-11",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N4",
+    "opened": 340,
+    "person": "N4-12",
+    "school": "海校",
+    "level_at_entry": 1,
+    "orientation": "media",
+    "teaching_cluster": "G4-2",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 341,
+        "task_id": "T4-12-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 342,
+        "task_id": "T4-12-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 343,
+        "task_id": "T4-12-2",
+        "independent": false
+      }
+    ],
+    "checkpoint": {
+      "score": 2,
+      "goal": "interpret",
+      "available_after": 372,
+      "mature": true,
+      "evidence": "U4-12",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N4",
+    "opened": 340,
+    "person": "N4-13",
+    "school": "海校",
+    "level_at_entry": 2,
+    "orientation": "general",
+    "teaching_cluster": "G4-2",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 341,
+        "task_id": "T4-13-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 342,
+        "task_id": "T4-13-1",
+        "independent": false
+      },
+      {
+        "activity": "F3",
+        "at": 343,
+        "task_id": "T4-13-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 3,
+      "goal": "react",
+      "available_after": 373,
+      "mature": true,
+      "evidence": "U4-13",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N4",
+    "opened": 340,
+    "person": "N4-14",
+    "school": "江校",
+    "level_at_entry": 3,
+    "orientation": "general",
+    "teaching_cluster": "G4-2",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 341,
+        "task_id": "T4-14-0",
+        "independent": false
+      },
+      {
+        "activity": "F4",
+        "at": 342,
+        "task_id": "T4-14-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 343,
+        "task_id": "T4-14-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 4,
+      "goal": "interpret",
+      "available_after": 374,
+      "mature": true,
+      "evidence": "U4-14",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N4",
+    "opened": 340,
+    "person": "N4-15",
+    "school": "江校",
+    "level_at_entry": 4,
+    "orientation": "general",
+    "teaching_cluster": "G4-3",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 341,
+        "task_id": "T4-15-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 342,
+        "task_id": "T4-15-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 343,
+        "task_id": "T4-15-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 5,
+      "goal": "react",
+      "available_after": 375,
+      "mature": true,
+      "evidence": "U4-15",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N4",
+    "opened": 340,
+    "person": "N4-16",
+    "school": "海校",
+    "level_at_entry": 1,
+    "orientation": "general",
+    "teaching_cluster": "G4-3",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 341,
+        "task_id": "T4-16-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 342,
+        "task_id": "T4-16-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 343,
+        "task_id": "T4-16-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 1,
+      "goal": "interpret",
+      "available_after": 376,
+      "mature": true,
+      "evidence": "U4-16",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N4",
+    "opened": 340,
+    "person": "N4-17",
+    "school": "海校",
+    "level_at_entry": 2,
+    "orientation": "general",
+    "teaching_cluster": "G4-3",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 341,
+        "task_id": "T4-17-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 342,
+        "task_id": "T4-17-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 343,
+        "task_id": "T4-17-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 2,
+      "goal": "react",
+      "available_after": 377,
+      "mature": true,
+      "evidence": "U4-17",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N4",
+    "opened": 340,
+    "person": "N4-18",
+    "school": "江校",
+    "level_at_entry": 3,
+    "orientation": "media",
+    "teaching_cluster": "G4-3",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 341,
+        "task_id": "T4-18-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 342,
+        "task_id": "T4-18-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 343,
+        "task_id": "T4-18-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 3,
+      "goal": "interpret",
+      "available_after": 378,
+      "mature": true,
+      "evidence": "T4-18-2",
+      "independent": false
+    }
+  },
+  {
+    "cohort": "N4",
+    "opened": 340,
+    "person": "N4-19",
+    "school": "江校",
+    "level_at_entry": 4,
+    "orientation": "general",
+    "teaching_cluster": "G4-3",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 341,
+        "task_id": "T4-19-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 342,
+        "task_id": "T4-19-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 343,
+        "task_id": "T4-19-2",
+        "independent": false
+      }
+    ],
+    "checkpoint": {
+      "score": 4,
+      "goal": "react",
+      "available_after": 379,
+      "mature": true,
+      "evidence": "U4-19",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N4",
+    "opened": 340,
+    "person": "N4-20",
+    "school": "海校",
+    "level_at_entry": 1,
+    "orientation": "general",
+    "teaching_cluster": "G4-4",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 341,
+        "task_id": "T4-20-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 342,
+        "task_id": "T4-20-1",
+        "independent": false
+      },
+      {
+        "activity": "F3",
+        "at": 343,
+        "task_id": "T4-20-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 5,
+      "goal": "interpret",
+      "available_after": 380,
+      "mature": true,
+      "evidence": "U4-20",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N4",
+    "opened": 340,
+    "person": "N4-21",
+    "school": "海校",
+    "level_at_entry": 2,
+    "orientation": "general",
+    "teaching_cluster": "G4-4",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 341,
+        "task_id": "T4-21-0",
+        "independent": false
+      },
+      {
+        "activity": "F2",
+        "at": 342,
+        "task_id": "T4-21-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 343,
+        "task_id": "T4-21-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 1,
+      "goal": "react",
+      "available_after": 381,
+      "mature": true,
+      "evidence": "U4-21",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N4",
+    "opened": 340,
+    "person": "N4-22",
+    "school": "江校",
+    "level_at_entry": 3,
+    "orientation": "general",
+    "teaching_cluster": "G4-4",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 341,
+        "task_id": "T4-22-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 342,
+        "task_id": "T4-22-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 343,
+        "task_id": "T4-22-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 2,
+      "goal": "interpret",
+      "available_after": 371,
+      "mature": true,
+      "evidence": "U4-22",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N4",
+    "opened": 340,
+    "person": "N4-23",
+    "school": "江校",
+    "level_at_entry": 4,
+    "orientation": "general",
+    "teaching_cluster": "G4-4",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 341,
+        "task_id": "T4-23-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 342,
+        "task_id": "T4-23-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 343,
+        "task_id": "T4-23-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 3,
+      "goal": "react",
+      "available_after": 372,
+      "mature": true,
+      "evidence": "U4-23",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N4",
+    "opened": 340,
+    "person": "N4-24",
+    "school": "海校",
+    "level_at_entry": 1,
+    "orientation": "media",
+    "teaching_cluster": "G4-4",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 341,
+        "task_id": "T4-24-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 342,
+        "task_id": "T4-24-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 343,
+        "task_id": "T4-24-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 4,
+      "goal": "interpret",
+      "available_after": 373,
+      "mature": true,
+      "evidence": "U4-24",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N4",
+    "opened": 340,
+    "person": "N4-25",
+    "school": "海校",
+    "level_at_entry": 2,
+    "orientation": "general",
+    "teaching_cluster": "G4-5",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 341,
+        "task_id": "T4-25-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 342,
+        "task_id": "T4-25-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 343,
+        "task_id": "T4-25-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 5,
+      "goal": "react",
+      "available_after": 374,
+      "mature": true,
+      "evidence": "U4-25",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N4",
+    "opened": 340,
+    "person": "N4-26",
+    "school": "江校",
+    "level_at_entry": 3,
+    "orientation": "general",
+    "teaching_cluster": "G4-5",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 341,
+        "task_id": "T4-26-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 342,
+        "task_id": "T4-26-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 343,
+        "task_id": "T4-26-2",
+        "independent": false
+      }
+    ],
+    "checkpoint": {
+      "score": 1,
+      "goal": "interpret",
+      "available_after": 375,
+      "mature": true,
+      "evidence": "U4-26",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N4",
+    "opened": 340,
+    "person": "N4-27",
+    "school": "江校",
+    "level_at_entry": 4,
+    "orientation": "general",
+    "teaching_cluster": "G4-5",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 341,
+        "task_id": "T4-27-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 342,
+        "task_id": "T4-27-1",
+        "independent": false
+      },
+      {
+        "activity": "F3",
+        "at": 343,
+        "task_id": "T4-27-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 2,
+      "goal": "react",
+      "available_after": 376,
+      "mature": true,
+      "evidence": "T4-27-2",
+      "independent": false
+    }
+  },
+  {
+    "cohort": "N5",
+    "opened": 400,
+    "person": "N5-0",
+    "school": "海校",
+    "level_at_entry": 1,
+    "orientation": "media",
+    "teaching_cluster": "G5-0",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 401,
+        "task_id": "T5-0-0",
+        "independent": false
+      },
+      {
+        "activity": "F2",
+        "at": 402,
+        "task_id": "T5-0-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 403,
+        "task_id": "T5-0-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 1,
+      "goal": "interpret",
+      "available_after": 431,
+      "mature": true,
+      "evidence": "T5-0-2",
+      "independent": false
+    }
+  },
+  {
+    "cohort": "N5",
+    "opened": 400,
+    "person": "N5-1",
+    "school": "海校",
+    "level_at_entry": 2,
+    "orientation": "general",
+    "teaching_cluster": "G5-0",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 401,
+        "task_id": "T5-1-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 402,
+        "task_id": "T5-1-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 403,
+        "task_id": "T5-1-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 2,
+      "goal": "react",
+      "available_after": 432,
+      "mature": true,
+      "evidence": "U5-1",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N5",
+    "opened": 400,
+    "person": "N5-2",
+    "school": "江校",
+    "level_at_entry": 3,
+    "orientation": "general",
+    "teaching_cluster": "G5-0",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 401,
+        "task_id": "T5-2-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 402,
+        "task_id": "T5-2-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 403,
+        "task_id": "T5-2-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 3,
+      "goal": "interpret",
+      "available_after": 433,
+      "mature": true,
+      "evidence": "U5-2",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N5",
+    "opened": 400,
+    "person": "N5-3",
+    "school": "江校",
+    "level_at_entry": 4,
+    "orientation": "general",
+    "teaching_cluster": "G5-0",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 401,
+        "task_id": "T5-3-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 402,
+        "task_id": "T5-3-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 403,
+        "task_id": "T5-3-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 4,
+      "goal": "react",
+      "available_after": 434,
+      "mature": true,
+      "evidence": "U5-3",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N5",
+    "opened": 400,
+    "person": "N5-4",
+    "school": "海校",
+    "level_at_entry": 1,
+    "orientation": "general",
+    "teaching_cluster": "G5-0",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 401,
+        "task_id": "T5-4-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 402,
+        "task_id": "T5-4-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 403,
+        "task_id": "T5-4-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 5,
+      "goal": "interpret",
+      "available_after": 435,
+      "mature": true,
+      "evidence": "U5-4",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N5",
+    "opened": 400,
+    "person": "N5-5",
+    "school": "海校",
+    "level_at_entry": 2,
+    "orientation": "general",
+    "teaching_cluster": "G5-1",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 401,
+        "task_id": "T5-5-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 402,
+        "task_id": "T5-5-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 403,
+        "task_id": "T5-5-2",
+        "independent": false
+      }
+    ],
+    "checkpoint": {
+      "score": 1,
+      "goal": "react",
+      "available_after": 436,
+      "mature": true,
+      "evidence": "U5-5",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N5",
+    "opened": 400,
+    "person": "N5-6",
+    "school": "江校",
+    "level_at_entry": 3,
+    "orientation": "media",
+    "teaching_cluster": "G5-1",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 401,
+        "task_id": "T5-6-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 402,
+        "task_id": "T5-6-1",
+        "independent": false
+      },
+      {
+        "activity": "F3",
+        "at": 403,
+        "task_id": "T5-6-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 2,
+      "goal": "interpret",
+      "available_after": 437,
+      "mature": true,
+      "evidence": "U5-6",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N5",
+    "opened": 400,
+    "person": "N5-7",
+    "school": "江校",
+    "level_at_entry": 4,
+    "orientation": "general",
+    "teaching_cluster": "G5-1",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 401,
+        "task_id": "T5-7-0",
+        "independent": false
+      },
+      {
+        "activity": "F4",
+        "at": 402,
+        "task_id": "T5-7-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 403,
+        "task_id": "T5-7-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 3,
+      "goal": "react",
+      "available_after": 438,
+      "mature": true,
+      "evidence": "U5-7",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N5",
+    "opened": 400,
+    "person": "N5-8",
+    "school": "海校",
+    "level_at_entry": 1,
+    "orientation": "general",
+    "teaching_cluster": "G5-1",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 401,
+        "task_id": "T5-8-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 402,
+        "task_id": "T5-8-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 403,
+        "task_id": "T5-8-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 4,
+      "goal": "interpret",
+      "available_after": 439,
+      "mature": true,
+      "evidence": "U5-8",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N5",
+    "opened": 400,
+    "person": "N5-9",
+    "school": "海校",
+    "level_at_entry": 2,
+    "orientation": "general",
+    "teaching_cluster": "G5-1",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 401,
+        "task_id": "T5-9-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 402,
+        "task_id": "T5-9-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 403,
+        "task_id": "T5-9-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 5,
+      "goal": "react",
+      "available_after": 440,
+      "mature": true,
+      "evidence": "T5-9-2",
+      "independent": false
+    }
+  },
+  {
+    "cohort": "N5",
+    "opened": 400,
+    "person": "N5-10",
+    "school": "江校",
+    "level_at_entry": 3,
+    "orientation": "general",
+    "teaching_cluster": "G5-2",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 401,
+        "task_id": "T5-10-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 402,
+        "task_id": "T5-10-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 403,
+        "task_id": "T5-10-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 1,
+      "goal": "interpret",
+      "available_after": 441,
+      "mature": true,
+      "evidence": "U5-10",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N5",
+    "opened": 400,
+    "person": "N5-11",
+    "school": "江校",
+    "level_at_entry": 4,
+    "orientation": "general",
+    "teaching_cluster": "G5-2",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 401,
+        "task_id": "T5-11-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 402,
+        "task_id": "T5-11-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 403,
+        "task_id": "T5-11-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 2,
+      "goal": "react",
+      "available_after": 431,
+      "mature": true,
+      "evidence": "U5-11",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N5",
+    "opened": 400,
+    "person": "N5-12",
+    "school": "海校",
+    "level_at_entry": 1,
+    "orientation": "media",
+    "teaching_cluster": "G5-2",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 401,
+        "task_id": "T5-12-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 402,
+        "task_id": "T5-12-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 403,
+        "task_id": "T5-12-2",
+        "independent": false
+      }
+    ],
+    "checkpoint": {
+      "score": 3,
+      "goal": "interpret",
+      "available_after": 432,
+      "mature": true,
+      "evidence": "U5-12",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N5",
+    "opened": 400,
+    "person": "N5-13",
+    "school": "海校",
+    "level_at_entry": 2,
+    "orientation": "general",
+    "teaching_cluster": "G5-2",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 401,
+        "task_id": "T5-13-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 402,
+        "task_id": "T5-13-1",
+        "independent": false
+      },
+      {
+        "activity": "F3",
+        "at": 403,
+        "task_id": "T5-13-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 4,
+      "goal": "react",
+      "available_after": 433,
+      "mature": true,
+      "evidence": "U5-13",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N5",
+    "opened": 400,
+    "person": "N5-14",
+    "school": "江校",
+    "level_at_entry": 3,
+    "orientation": "general",
+    "teaching_cluster": "G5-2",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 401,
+        "task_id": "T5-14-0",
+        "independent": false
+      },
+      {
+        "activity": "F2",
+        "at": 402,
+        "task_id": "T5-14-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 403,
+        "task_id": "T5-14-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 5,
+      "goal": "interpret",
+      "available_after": 434,
+      "mature": true,
+      "evidence": "U5-14",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N5",
+    "opened": 400,
+    "person": "N5-15",
+    "school": "江校",
+    "level_at_entry": 4,
+    "orientation": "general",
+    "teaching_cluster": "G5-3",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 401,
+        "task_id": "T5-15-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 402,
+        "task_id": "T5-15-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 403,
+        "task_id": "T5-15-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 1,
+      "goal": "react",
+      "available_after": 435,
+      "mature": true,
+      "evidence": "U5-15",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N5",
+    "opened": 400,
+    "person": "N5-16",
+    "school": "海校",
+    "level_at_entry": 1,
+    "orientation": "general",
+    "teaching_cluster": "G5-3",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 401,
+        "task_id": "T5-16-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 402,
+        "task_id": "T5-16-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 403,
+        "task_id": "T5-16-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 2,
+      "goal": "interpret",
+      "available_after": 436,
+      "mature": true,
+      "evidence": "U5-16",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N5",
+    "opened": 400,
+    "person": "N5-17",
+    "school": "海校",
+    "level_at_entry": 2,
+    "orientation": "general",
+    "teaching_cluster": "G5-3",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 401,
+        "task_id": "T5-17-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 402,
+        "task_id": "T5-17-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 403,
+        "task_id": "T5-17-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 3,
+      "goal": "react",
+      "available_after": 437,
+      "mature": true,
+      "evidence": "U5-17",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N5",
+    "opened": 400,
+    "person": "N5-18",
+    "school": "江校",
+    "level_at_entry": 3,
+    "orientation": "media",
+    "teaching_cluster": "G5-3",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 401,
+        "task_id": "T5-18-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 402,
+        "task_id": "T5-18-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 403,
+        "task_id": "T5-18-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 4,
+      "goal": "interpret",
+      "available_after": 438,
+      "mature": true,
+      "evidence": "T5-18-2",
+      "independent": false
+    }
+  },
+  {
+    "cohort": "N5",
+    "opened": 400,
+    "person": "N5-19",
+    "school": "江校",
+    "level_at_entry": 4,
+    "orientation": "general",
+    "teaching_cluster": "G5-3",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 401,
+        "task_id": "T5-19-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 402,
+        "task_id": "T5-19-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 403,
+        "task_id": "T5-19-2",
+        "independent": false
+      }
+    ],
+    "checkpoint": {
+      "score": 5,
+      "goal": "react",
+      "available_after": 439,
+      "mature": true,
+      "evidence": "U5-19",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N5",
+    "opened": 400,
+    "person": "N5-20",
+    "school": "海校",
+    "level_at_entry": 1,
+    "orientation": "general",
+    "teaching_cluster": "G5-4",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 401,
+        "task_id": "T5-20-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 402,
+        "task_id": "T5-20-1",
+        "independent": false
+      },
+      {
+        "activity": "F3",
+        "at": 403,
+        "task_id": "T5-20-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 1,
+      "goal": "interpret",
+      "available_after": 440,
+      "mature": true,
+      "evidence": "U5-20",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N5",
+    "opened": 400,
+    "person": "N5-21",
+    "school": "海校",
+    "level_at_entry": 2,
+    "orientation": "general",
+    "teaching_cluster": "G5-4",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 401,
+        "task_id": "T5-21-0",
+        "independent": false
+      },
+      {
+        "activity": "F4",
+        "at": 402,
+        "task_id": "T5-21-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 403,
+        "task_id": "T5-21-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 2,
+      "goal": "react",
+      "available_after": 441,
+      "mature": true,
+      "evidence": "U5-21",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N5",
+    "opened": 400,
+    "person": "N5-22",
+    "school": "江校",
+    "level_at_entry": 3,
+    "orientation": "general",
+    "teaching_cluster": "G5-4",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 401,
+        "task_id": "T5-22-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 402,
+        "task_id": "T5-22-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 403,
+        "task_id": "T5-22-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 3,
+      "goal": "interpret",
+      "available_after": 431,
+      "mature": true,
+      "evidence": "U5-22",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N5",
+    "opened": 400,
+    "person": "N5-23",
+    "school": "江校",
+    "level_at_entry": 4,
+    "orientation": "general",
+    "teaching_cluster": "G5-4",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 401,
+        "task_id": "T5-23-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 402,
+        "task_id": "T5-23-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 403,
+        "task_id": "T5-23-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 4,
+      "goal": "react",
+      "available_after": 432,
+      "mature": true,
+      "evidence": "U5-23",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N5",
+    "opened": 400,
+    "person": "N5-24",
+    "school": "海校",
+    "level_at_entry": 1,
+    "orientation": "media",
+    "teaching_cluster": "G5-4",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 401,
+        "task_id": "T5-24-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 402,
+        "task_id": "T5-24-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 403,
+        "task_id": "T5-24-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 5,
+      "goal": "interpret",
+      "available_after": 433,
+      "mature": true,
+      "evidence": "U5-24",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N5",
+    "opened": 400,
+    "person": "N5-25",
+    "school": "海校",
+    "level_at_entry": 2,
+    "orientation": "general",
+    "teaching_cluster": "G5-5",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 401,
+        "task_id": "T5-25-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 402,
+        "task_id": "T5-25-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 403,
+        "task_id": "T5-25-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 1,
+      "goal": "react",
+      "available_after": 434,
+      "mature": true,
+      "evidence": "U5-25",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N5",
+    "opened": 400,
+    "person": "N5-26",
+    "school": "江校",
+    "level_at_entry": 3,
+    "orientation": "general",
+    "teaching_cluster": "G5-5",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 401,
+        "task_id": "T5-26-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 402,
+        "task_id": "T5-26-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 403,
+        "task_id": "T5-26-2",
+        "independent": false
+      }
+    ],
+    "checkpoint": {
+      "score": 2,
+      "goal": "interpret",
+      "available_after": 435,
+      "mature": true,
+      "evidence": "U5-26",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N5",
+    "opened": 400,
+    "person": "N5-27",
+    "school": "江校",
+    "level_at_entry": 4,
+    "orientation": "general",
+    "teaching_cluster": "G5-5",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 401,
+        "task_id": "T5-27-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 402,
+        "task_id": "T5-27-1",
+        "independent": false
+      },
+      {
+        "activity": "F3",
+        "at": 403,
+        "task_id": "T5-27-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 3,
+      "goal": "react",
+      "available_after": 436,
+      "mature": true,
+      "evidence": "T5-27-2",
+      "independent": false
+    }
+  },
+  {
+    "cohort": "N6",
+    "opened": 460,
+    "person": "N6-0",
+    "school": "海校",
+    "level_at_entry": 1,
+    "orientation": "media",
+    "teaching_cluster": "G6-0",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 461,
+        "task_id": "T6-0-0",
+        "independent": false
+      },
+      {
+        "activity": "F4",
+        "at": 462,
+        "task_id": "T6-0-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 463,
+        "task_id": "T6-0-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": null,
+      "goal": "interpret",
+      "available_after": 491,
+      "mature": false,
+      "evidence": "T6-0-2",
+      "independent": false
+    }
+  },
+  {
+    "cohort": "N6",
+    "opened": 460,
+    "person": "N6-1",
+    "school": "海校",
+    "level_at_entry": 2,
+    "orientation": "general",
+    "teaching_cluster": "G6-0",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 461,
+        "task_id": "T6-1-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 462,
+        "task_id": "T6-1-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 463,
+        "task_id": "T6-1-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 3,
+      "goal": "react",
+      "available_after": 492,
+      "mature": true,
+      "evidence": "U6-1",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N6",
+    "opened": 460,
+    "person": "N6-2",
+    "school": "江校",
+    "level_at_entry": 3,
+    "orientation": "general",
+    "teaching_cluster": "G6-0",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 461,
+        "task_id": "T6-2-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 462,
+        "task_id": "T6-2-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 463,
+        "task_id": "T6-2-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 4,
+      "goal": "interpret",
+      "available_after": 493,
+      "mature": true,
+      "evidence": "U6-2",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N6",
+    "opened": 460,
+    "person": "N6-3",
+    "school": "江校",
+    "level_at_entry": 4,
+    "orientation": "general",
+    "teaching_cluster": "G6-0",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 461,
+        "task_id": "T6-3-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 462,
+        "task_id": "T6-3-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 463,
+        "task_id": "T6-3-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 5,
+      "goal": "react",
+      "available_after": 494,
+      "mature": true,
+      "evidence": "U6-3",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N6",
+    "opened": 460,
+    "person": "N6-4",
+    "school": "海校",
+    "level_at_entry": 1,
+    "orientation": "general",
+    "teaching_cluster": "G6-0",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 461,
+        "task_id": "T6-4-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 462,
+        "task_id": "T6-4-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 463,
+        "task_id": "T6-4-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 1,
+      "goal": "interpret",
+      "available_after": 495,
+      "mature": true,
+      "evidence": "U6-4",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N6",
+    "opened": 460,
+    "person": "N6-5",
+    "school": "海校",
+    "level_at_entry": 2,
+    "orientation": "general",
+    "teaching_cluster": "G6-1",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 461,
+        "task_id": "T6-5-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 462,
+        "task_id": "T6-5-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 463,
+        "task_id": "T6-5-2",
+        "independent": false
+      }
+    ],
+    "checkpoint": {
+      "score": null,
+      "goal": "react",
+      "available_after": 496,
+      "mature": false,
+      "evidence": "U6-5",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N6",
+    "opened": 460,
+    "person": "N6-6",
+    "school": "江校",
+    "level_at_entry": 3,
+    "orientation": "media",
+    "teaching_cluster": "G6-1",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 461,
+        "task_id": "T6-6-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 462,
+        "task_id": "T6-6-1",
+        "independent": false
+      },
+      {
+        "activity": "F3",
+        "at": 463,
+        "task_id": "T6-6-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 3,
+      "goal": "interpret",
+      "available_after": 497,
+      "mature": true,
+      "evidence": "U6-6",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N6",
+    "opened": 460,
+    "person": "N6-7",
+    "school": "江校",
+    "level_at_entry": 4,
+    "orientation": "general",
+    "teaching_cluster": "G6-1",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 461,
+        "task_id": "T6-7-0",
+        "independent": false
+      },
+      {
+        "activity": "F2",
+        "at": 462,
+        "task_id": "T6-7-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 463,
+        "task_id": "T6-7-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 4,
+      "goal": "react",
+      "available_after": 498,
+      "mature": true,
+      "evidence": "U6-7",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N6",
+    "opened": 460,
+    "person": "N6-8",
+    "school": "海校",
+    "level_at_entry": 1,
+    "orientation": "general",
+    "teaching_cluster": "G6-1",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 461,
+        "task_id": "T6-8-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 462,
+        "task_id": "T6-8-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 463,
+        "task_id": "T6-8-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 5,
+      "goal": "interpret",
+      "available_after": 499,
+      "mature": true,
+      "evidence": "U6-8",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N6",
+    "opened": 460,
+    "person": "N6-9",
+    "school": "海校",
+    "level_at_entry": 2,
+    "orientation": "general",
+    "teaching_cluster": "G6-1",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 461,
+        "task_id": "T6-9-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 462,
+        "task_id": "T6-9-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 463,
+        "task_id": "T6-9-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 1,
+      "goal": "react",
+      "available_after": 500,
+      "mature": true,
+      "evidence": "T6-9-2",
+      "independent": false
+    }
+  },
+  {
+    "cohort": "N6",
+    "opened": 460,
+    "person": "N6-10",
+    "school": "江校",
+    "level_at_entry": 3,
+    "orientation": "general",
+    "teaching_cluster": "G6-2",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 461,
+        "task_id": "T6-10-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 462,
+        "task_id": "T6-10-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 463,
+        "task_id": "T6-10-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": null,
+      "goal": "interpret",
+      "available_after": 501,
+      "mature": false,
+      "evidence": "U6-10",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N6",
+    "opened": 460,
+    "person": "N6-11",
+    "school": "江校",
+    "level_at_entry": 4,
+    "orientation": "general",
+    "teaching_cluster": "G6-2",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 461,
+        "task_id": "T6-11-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 462,
+        "task_id": "T6-11-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 463,
+        "task_id": "T6-11-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 3,
+      "goal": "react",
+      "available_after": 491,
+      "mature": true,
+      "evidence": "U6-11",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N6",
+    "opened": 460,
+    "person": "N6-12",
+    "school": "海校",
+    "level_at_entry": 1,
+    "orientation": "media",
+    "teaching_cluster": "G6-2",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 461,
+        "task_id": "T6-12-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 462,
+        "task_id": "T6-12-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 463,
+        "task_id": "T6-12-2",
+        "independent": false
+      }
+    ],
+    "checkpoint": {
+      "score": 4,
+      "goal": "interpret",
+      "available_after": 492,
+      "mature": true,
+      "evidence": "U6-12",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N6",
+    "opened": 460,
+    "person": "N6-13",
+    "school": "海校",
+    "level_at_entry": 2,
+    "orientation": "general",
+    "teaching_cluster": "G6-2",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 461,
+        "task_id": "T6-13-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 462,
+        "task_id": "T6-13-1",
+        "independent": false
+      },
+      {
+        "activity": "F3",
+        "at": 463,
+        "task_id": "T6-13-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 5,
+      "goal": "react",
+      "available_after": 493,
+      "mature": true,
+      "evidence": "U6-13",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N6",
+    "opened": 460,
+    "person": "N6-14",
+    "school": "江校",
+    "level_at_entry": 3,
+    "orientation": "general",
+    "teaching_cluster": "G6-2",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 461,
+        "task_id": "T6-14-0",
+        "independent": false
+      },
+      {
+        "activity": "F4",
+        "at": 462,
+        "task_id": "T6-14-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 463,
+        "task_id": "T6-14-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 1,
+      "goal": "interpret",
+      "available_after": 494,
+      "mature": true,
+      "evidence": "U6-14",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N6",
+    "opened": 460,
+    "person": "N6-15",
+    "school": "江校",
+    "level_at_entry": 4,
+    "orientation": "general",
+    "teaching_cluster": "G6-3",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 461,
+        "task_id": "T6-15-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 462,
+        "task_id": "T6-15-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 463,
+        "task_id": "T6-15-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": null,
+      "goal": "react",
+      "available_after": 495,
+      "mature": false,
+      "evidence": "U6-15",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N6",
+    "opened": 460,
+    "person": "N6-16",
+    "school": "海校",
+    "level_at_entry": 1,
+    "orientation": "general",
+    "teaching_cluster": "G6-3",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 461,
+        "task_id": "T6-16-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 462,
+        "task_id": "T6-16-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 463,
+        "task_id": "T6-16-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 3,
+      "goal": "interpret",
+      "available_after": 496,
+      "mature": true,
+      "evidence": "U6-16",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N6",
+    "opened": 460,
+    "person": "N6-17",
+    "school": "海校",
+    "level_at_entry": 2,
+    "orientation": "general",
+    "teaching_cluster": "G6-3",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 461,
+        "task_id": "T6-17-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 462,
+        "task_id": "T6-17-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 463,
+        "task_id": "T6-17-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 4,
+      "goal": "react",
+      "available_after": 497,
+      "mature": true,
+      "evidence": "U6-17",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N6",
+    "opened": 460,
+    "person": "N6-18",
+    "school": "江校",
+    "level_at_entry": 3,
+    "orientation": "media",
+    "teaching_cluster": "G6-3",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 461,
+        "task_id": "T6-18-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 462,
+        "task_id": "T6-18-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 463,
+        "task_id": "T6-18-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 5,
+      "goal": "interpret",
+      "available_after": 498,
+      "mature": true,
+      "evidence": "T6-18-2",
+      "independent": false
+    }
+  },
+  {
+    "cohort": "N6",
+    "opened": 460,
+    "person": "N6-19",
+    "school": "江校",
+    "level_at_entry": 4,
+    "orientation": "general",
+    "teaching_cluster": "G6-3",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 461,
+        "task_id": "T6-19-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 462,
+        "task_id": "T6-19-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 463,
+        "task_id": "T6-19-2",
+        "independent": false
+      }
+    ],
+    "checkpoint": {
+      "score": 1,
+      "goal": "react",
+      "available_after": 499,
+      "mature": true,
+      "evidence": "U6-19",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N6",
+    "opened": 460,
+    "person": "N6-20",
+    "school": "海校",
+    "level_at_entry": 1,
+    "orientation": "general",
+    "teaching_cluster": "G6-4",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 461,
+        "task_id": "T6-20-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 462,
+        "task_id": "T6-20-1",
+        "independent": false
+      },
+      {
+        "activity": "F3",
+        "at": 463,
+        "task_id": "T6-20-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": null,
+      "goal": "interpret",
+      "available_after": 500,
+      "mature": false,
+      "evidence": "U6-20",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N6",
+    "opened": 460,
+    "person": "N6-21",
+    "school": "海校",
+    "level_at_entry": 2,
+    "orientation": "general",
+    "teaching_cluster": "G6-4",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 461,
+        "task_id": "T6-21-0",
+        "independent": false
+      },
+      {
+        "activity": "F2",
+        "at": 462,
+        "task_id": "T6-21-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 463,
+        "task_id": "T6-21-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 3,
+      "goal": "react",
+      "available_after": 501,
+      "mature": true,
+      "evidence": "U6-21",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N6",
+    "opened": 460,
+    "person": "N6-22",
+    "school": "江校",
+    "level_at_entry": 3,
+    "orientation": "general",
+    "teaching_cluster": "G6-4",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 461,
+        "task_id": "T6-22-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 462,
+        "task_id": "T6-22-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 463,
+        "task_id": "T6-22-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 4,
+      "goal": "interpret",
+      "available_after": 491,
+      "mature": true,
+      "evidence": "U6-22",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N6",
+    "opened": 460,
+    "person": "N6-23",
+    "school": "江校",
+    "level_at_entry": 4,
+    "orientation": "general",
+    "teaching_cluster": "G6-4",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 461,
+        "task_id": "T6-23-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 462,
+        "task_id": "T6-23-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 463,
+        "task_id": "T6-23-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 5,
+      "goal": "react",
+      "available_after": 492,
+      "mature": true,
+      "evidence": "U6-23",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N6",
+    "opened": 460,
+    "person": "N6-24",
+    "school": "海校",
+    "level_at_entry": 1,
+    "orientation": "media",
+    "teaching_cluster": "G6-4",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 461,
+        "task_id": "T6-24-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 462,
+        "task_id": "T6-24-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 463,
+        "task_id": "T6-24-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 1,
+      "goal": "interpret",
+      "available_after": 493,
+      "mature": true,
+      "evidence": "U6-24",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N6",
+    "opened": 460,
+    "person": "N6-25",
+    "school": "海校",
+    "level_at_entry": 2,
+    "orientation": "general",
+    "teaching_cluster": "G6-5",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 461,
+        "task_id": "T6-25-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 462,
+        "task_id": "T6-25-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 463,
+        "task_id": "T6-25-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": null,
+      "goal": "react",
+      "available_after": 494,
+      "mature": false,
+      "evidence": "U6-25",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N6",
+    "opened": 460,
+    "person": "N6-26",
+    "school": "江校",
+    "level_at_entry": 3,
+    "orientation": "general",
+    "teaching_cluster": "G6-5",
+    "events": [
+      {
+        "activity": "F2",
+        "at": 461,
+        "task_id": "T6-26-0",
+        "independent": true
+      },
+      {
+        "activity": "F4",
+        "at": 462,
+        "task_id": "T6-26-1",
+        "independent": true
+      },
+      {
+        "activity": "F3",
+        "at": 463,
+        "task_id": "T6-26-2",
+        "independent": false
+      }
+    ],
+    "checkpoint": {
+      "score": 3,
+      "goal": "interpret",
+      "available_after": 495,
+      "mature": true,
+      "evidence": "U6-26",
+      "independent": true
+    }
+  },
+  {
+    "cohort": "N6",
+    "opened": 460,
+    "person": "N6-27",
+    "school": "江校",
+    "level_at_entry": 4,
+    "orientation": "general",
+    "teaching_cluster": "G6-5",
+    "events": [
+      {
+        "activity": "F1",
+        "at": 461,
+        "task_id": "T6-27-0",
+        "independent": true
+      },
+      {
+        "activity": "F2",
+        "at": 462,
+        "task_id": "T6-27-1",
+        "independent": false
+      },
+      {
+        "activity": "F3",
+        "at": 463,
+        "task_id": "T6-27-2",
+        "independent": true
+      }
+    ],
+    "checkpoint": {
+      "score": 4,
+      "goal": "react",
+      "available_after": 496,
+      "mature": true,
+      "evidence": "T6-27-2",
+      "independent": false
+    }
+  }
+]

@@ -1,0 +1,217 @@
+{
+  "transcripts": [
+    {
+      "attempt": "f1",
+      "person": "p1",
+      "activity": "F1",
+      "score": {
+        "narrate": 4,
+        "react": 4
+      },
+      "group": null,
+      "independent": true
+    },
+    {
+      "attempt": "f2",
+      "person": "p1",
+      "activity": "F2",
+      "score": {
+        "interpret": 4
+      },
+      "group": null,
+      "independent": true
+    },
+    {
+      "attempt": "f3",
+      "person": "p1",
+      "activity": "F3",
+      "score": {
+        "react": 4,
+        "discuss": 4
+      },
+      "group": null,
+      "independent": true
+    },
+    {
+      "attempt": "f4",
+      "person": "p2",
+      "activity": "F4",
+      "score": {
+        "narrate": 4,
+        "discuss": 4
+      },
+      "group": "gA",
+      "independent": true
+    },
+    {
+      "attempt": "f5",
+      "person": "p3",
+      "activity": "F4",
+      "score": {
+        "narrate": 4,
+        "discuss": 4
+      },
+      "group": "gA",
+      "independent": true
+    },
+    {
+      "attempt": "f6",
+      "person": "p1",
+      "activity": "F5",
+      "score": {
+        "interpret": 4,
+        "narrate": 3
+      },
+      "group": null,
+      "independent": true
+    }
+  ],
+  "applications": [
+    {
+      "id": "a1",
+      "person": "p1",
+      "school": "海校",
+      "version": "h1",
+      "course": "会话",
+      "at": 8
+    },
+    {
+      "id": "a2",
+      "person": "p1",
+      "school": "海校",
+      "version": "h2",
+      "course": "研讨",
+      "at": 24
+    },
+    {
+      "id": "a3",
+      "person": "p1",
+      "school": "江校",
+      "version": "j1",
+      "course": "会话",
+      "at": 15
+    },
+    {
+      "id": "a4",
+      "person": "p1",
+      "school": "海校",
+      "version": "h2",
+      "course": "阅读",
+      "at": 24
+    },
+    {
+      "id": "a5",
+      "person": "p2",
+      "school": "海校",
+      "version": "h2",
+      "course": "研讨",
+      "at": 26
+    }
+  ],
+  "receipt_fields": [
+    "id",
+    "application",
+    "school",
+    "course_version",
+    "eff_at",
+    "recv_at",
+    "state",
+    "credit",
+    "attempt",
+    "goal"
+  ],
+  "events": [
+    {
+      "id": "e1",
+      "application": "a1",
+      "school": "海校",
+      "course_version": "h1",
+      "eff_at": 9,
+      "recv_at": 9,
+      "state": "confirmed",
+      "credit": 2,
+      "attempt": [
+        "f1"
+      ],
+      "goal": [
+        "narrate",
+        "react"
+      ]
+    },
+    {
+      "id": "e2",
+      "application": "a3",
+      "school": "江校",
+      "course_version": "j1",
+      "eff_at": 16,
+      "recv_at": 27,
+      "state": "confirmed",
+      "credit": 1,
+      "attempt": [
+        "f3"
+      ],
+      "goal": [
+        "react"
+      ]
+    },
+    {
+      "id": "e3",
+      "application": "a4",
+      "school": "海校",
+      "course_version": "h2",
+      "eff_at": 27,
+      "recv_at": 27,
+      "state": "requested",
+      "credit": 1,
+      "attempt": [
+        "f2"
+      ],
+      "goal": [
+        "interpret"
+      ]
+    },
+    {
+      "id": "e4",
+      "eff_at": 21,
+      "recv_at": 31,
+      "state": "corrected",
+      "affected": [
+        "f3",
+        "f4",
+        "f5"
+      ],
+      "goal": [
+        "discuss"
+      ],
+      "reason": "共作而非独立",
+      "preserves_other_goals": true
+    },
+    {
+      "id": "e5",
+      "eff_at": 29,
+      "recv_at": 29,
+      "state": "offered",
+      "attempt": [
+        "f6"
+      ],
+      "goal": [
+        "interpret",
+        "narrate"
+      ]
+    },
+    {
+      "id": "e6",
+      "eff_at": 32,
+      "recv_at": 34,
+      "state": "enrolled",
+      "application": "a2",
+      "attempt": [
+        "f1",
+        "f3"
+      ],
+      "goal": [
+        "discuss"
+      ]
+    }
+  ]
+}

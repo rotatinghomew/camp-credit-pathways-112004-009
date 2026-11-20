@@ -1,0 +1,129 @@
+{
+  "targets": [
+    {
+      "school": "海校",
+      "term": "26秋",
+      "version": "h1",
+      "course": "会话",
+      "goal": [
+        "narrate",
+        "react"
+      ],
+      "credit": 2,
+      "distinct": true,
+      "prereq": [],
+      "start": 10,
+      "end": 22
+    },
+    {
+      "school": "海校",
+      "term": "27春",
+      "version": "h2",
+      "course": "会话",
+      "goal": [
+        "interpret",
+        "react"
+      ],
+      "credit": 2,
+      "distinct": true,
+      "prereq": [],
+      "start": 25,
+      "end": 38
+    },
+    {
+      "school": "江校",
+      "term": "26秋",
+      "version": "j1",
+      "course": "会话",
+      "goal": [
+        "react"
+      ],
+      "credit": 1,
+      "distinct": true,
+      "prereq": [],
+      "start": 12,
+      "end": 25
+    },
+    {
+      "school": "海校",
+      "term": "27春",
+      "version": "h2",
+      "course": "研讨",
+      "goal": [
+        "discuss"
+      ],
+      "credit": 1,
+      "distinct": true,
+      "prereq": [
+        "会话"
+      ],
+      "start": 40,
+      "end": 55
+    },
+    {
+      "school": "海校",
+      "term": "27春",
+      "version": "h2",
+      "course": "阅读",
+      "goal": [
+        "interpret"
+      ],
+      "credit": 1,
+      "distinct": true,
+      "prereq": [],
+      "start": 25,
+      "end": 39
+    }
+  ],
+  "activities": {
+    "F1": {
+      "kind": "讲述",
+      "goals": [
+        "narrate",
+        "react"
+      ],
+      "credit": 2
+    },
+    "F2": {
+      "kind": "理解",
+      "goals": [
+        "interpret"
+      ],
+      "credit": 1
+    },
+    "F3": {
+      "kind": "访谈",
+      "goals": [
+        "react",
+        "discuss"
+      ],
+      "credit": 1
+    },
+    "F4": {
+      "kind": "共同排演",
+      "goals": [
+        "narrate",
+        "discuss"
+      ],
+      "credit": 2
+    },
+    "F5": {
+      "kind": "独立对读",
+      "goals": [
+        "interpret",
+        "narrate"
+      ],
+      "credit": 1
+    }
+  },
+  "minimum_level": {
+    "narrate": 3,
+    "interpret": 3,
+    "react": 3,
+    "discuss": 4
+  },
+  "standalone_evidence": {
+    "independent": true,
+    "scored_component": true
+  }
+}

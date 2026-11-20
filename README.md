@@ -1,29 +1,16 @@
-# 交流结对续联的双向观察与跟进名额
+# 中文营地学习路径比较与跨校学分承接
 
-伙伴回访以整日为单位，day 为活动结束后的天数，可有迟交；以 collected 决定决策时是否知道该记录。关系的开始和结束由双方报名约定或正式退出消息给出。 数据均为合成。
+所有记录都是本地合成数据。CSV 为 UTF-8 且有首行字段名；JSON 空值表示未报告。
 
-CSV 使用 UTF-8、首行字段名，`-` 表示来源未填；JSON 使用原生布尔、字符串及数字。没有另行给定时，`seq` 只用于还原各条来件的先后，不是业务日期。
+## 补充来源说明
 
-## 来源说明
-
-- `pairs.csv`：active_until 是约定随访截止，不是已经终止；一个人可在多对中。
-- `observations.csv`：reporter 为签名来信者，interaction 是可匹配交流标识，起止表示那次事件可发生的日区间。group 类型是公开活动，不能算入结对双向接触。
-- `permission.csv`：check 可单边确认、meeting 可安排双边会谈；exit 表示退出关系（不是权限撤回）。预约回执给出 person 所占用的自己的时段，不代替另一个人的同意。
-- `slots.csv`：已经预约的单边、双边任务会占人和志愿者。past_actions 按已走完的观察窗口记录真实可确认范围，不把观察本身当实际重联。
-
-## 数据清单
-
-- `pairs.csv`：`pair`, `left`, `right`, `area`, `start`, `active_until`。
-- `observations.csv`：`id`, `pair`, `reporter`, `kind`, `interaction`, `earliest`, `latest`, `collected`。
-- `permission.csv`：`day`, `person`, `pair`, `check`, `meeting`, `exit`。
-- `slots.csv`：`id`, `day`, `start`, `length`, `volunteer`。
-- `bookings.csv`：`at`, `id`, `slot`, `pair`, `person`, `kind`, `state`。
-- `past_actions.csv`：`action`, `type`, `region`, `lag_days`, `confirmed`, `unresolved`, `window_mature`。
-- `policy.json`：配置对象。
+- `catalog.json`：院校课程目录和营地任务题本。课目要求 distinct=1 时，目标所用作答须独立。credit 是申请占用的整数可转学分，不代表观察次数。不同学期、不同校的版本可并行生效。
+- `cohorts.json`：匿名历史学习路径，按营地开营次序分组。lesson 有多组共享教学时同 teaching_cluster；task_id 一致的多个来源是同一记录。checkpoint 在对应观察结束且 rec_date 已到时才有可见成绩。
+- `registrar.json`：本期分项、学分申请和校方回执。attempt 是作答身份；group 非空表示共享支持来源。更正规则只变被指定的分项；应用时不覆盖已确认占用。
 
 ## 本地检查
 
-使用 Python 3.11 标准库，无需安装第三方依赖。构建检查和来源契约测试：
+使用 Python 3.11 标准库。当前可运行的是来源契约检查：
 
 ```sh
 python3 -m compileall -q tests
