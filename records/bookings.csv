@@ -1,0 +1,5 @@
+at,id,slot,pair,person,kind,state
+20,b1,s1,t1,x1,meeting,confirmed
+21,b1,s1,t1,x2,meeting,confirmed
+29,b2,s2,t3,x2,check,confirmed
+32,b1,s1,t1,x2,meeting,released
