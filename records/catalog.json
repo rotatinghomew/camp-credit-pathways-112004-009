@@ -28,8 +28,8 @@
       "credit": 2,
       "distinct": true,
       "prereq": [],
-      "start": 25,
-      "end": 38,
+      "start": 37,
+      "end": 39,
       "support_basis": {
         "goal": "interpret",
         "minimum_separate_cohorts": 2,
